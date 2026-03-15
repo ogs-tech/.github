@@ -1,19 +1,30 @@
-# CLAUDE.md — OGS Tech .github Repository
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Repository Purpose
 
-This is the **OGS Tech** GitHub organization's special `.github` repository.
+This is the **OGS Tech** GitHub organization's special `.github` repository. It controls the org's public presence on GitHub.
 
-- `profile/README.md` — renders as the organization's public profile on GitHub
+- `profile/README.md` — renders as the organization's public profile on the OGS Tech GitHub org page
 - `README.md` — repository-level description
 
-## What This Repo Controls
+## Key Files
 
-- **Organization profile**: content in `profile/README.md` is displayed on the OGS Tech GitHub org page
-- Future: shared workflows, issue templates, and org-wide defaults can be added here
+| File | Purpose |
+|---|---|
+| `profile/README.md` | Public org profile — visible to everyone on GitHub |
+| `README.md` | Repo description and roadmap |
 
 ## Guidelines
 
-- Keep `profile/README.md` concise and representative of OGS Tech's mission and projects
-- Markdown only — no build steps or dependencies
-- Changes here are immediately visible on the public GitHub organization page
+- **Markdown only** — no build steps, no dependencies, no CI pipelines currently
+- Changes to `profile/README.md` are **immediately visible** on the public GitHub org page — review carefully before committing
+- Keep `profile/README.md` concise and aligned with OGS Tech's mission: SaaS, AI/autonomous agents, and open source
+
+## Roadmap (planned additions)
+
+This repo may eventually centralize:
+- Reusable GitHub Actions workflows (`.github/workflows/`)
+- Issue and pull request templates (`.github/ISSUE_TEMPLATE/`, `.github/PULL_REQUEST_TEMPLATE.md`)
+- Organization-wide default settings
