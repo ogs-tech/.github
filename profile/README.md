@@ -12,7 +12,7 @@ We build SaaS, artificial intelligence, and open source solutions to help compan
 |---|---|
 | [**Org Toolkit**](https://github.com/ogs-tech/org-toolkit) | Toolkit for team and process organization and management |
 | **Royale Agent App** | AI-powered couch agent application for Clash Royale |
-| **Noordhen** | In development — coming soon |
+| [**Noordhen**](https://github.com/ogs-tech/.github/blob/main/projects/noordhen/README.md) | Platform for operations, scheduling, documents, and team communication |
 
 ---
 
