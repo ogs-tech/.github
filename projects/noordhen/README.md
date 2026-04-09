@@ -1,12 +1,14 @@
 # Noordhen
 
-Platform for managing operations, scheduling, documents, and team communication — built for small and medium businesses.
+Custom digital platform and service ecosystem developed by OGS Tech for Noordhen Brasil, supporting operations, scheduling, documents, and team communication.
+
+Noordhen Brasil has supplied hygiene products and systems to the Brazilian market for over 25 years, and this platform supports part of that operational structure.
 
 ---
 
 ## Architecture Overview
 
-Noordhen is composed of two independent environments sharing the same product domain:
+The Noordhen platform is composed of two independent environments sharing the same product domain:
 
 | Environment | Purpose |
 |---|---|

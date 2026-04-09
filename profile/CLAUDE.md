@@ -17,9 +17,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | Project | Status |
 |---|---|
-| Org Toolkit | Active — [github.com/ogs-tech/org-toolkit](https://github.com/ogs-tech/org-toolkit) |
 | Royale Agent App | Active — AI-powered couch agent app for Clash Royale |
-| Noordhen | In development |
+| Noordhen | Active — custom operations platform developed by OGS Tech for Noordhen Brasil |
 
 ## Editing Rules
 

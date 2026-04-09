@@ -5,6 +5,8 @@ Special repository for the [OGS Tech](https://ogsolucoes.com.br) GitHub organiza
 ## Contents
 
 - [`profile/README.md`](profile/README.md) — public organization profile, displayed on the org's GitHub page
+- [`projects/noordhen/README.md`](projects/noordhen/README.md) — Noordhen project overview and architecture summary
+- [`projects/royale-agent-app/README.md`](projects/royale-agent-app/README.md) — Royale Agent App overview and repository reference
 
 ## Roadmap
 
