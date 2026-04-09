@@ -23,6 +23,15 @@ We build SaaS, artificial intelligence, and open source solutions to help compan
 
 ---
 
+## About OGS Tech
+
+Learn more about our identity and structure:
+
+- [Mission, Purpose, Vision, Values, and Slogan](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md)
+- [Organizational Chart](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md#organizational-chart)
+
+---
+
 ## Contact
 
 Website: [ogsolucoes.com.br](https://ogsolucoes.com.br)
