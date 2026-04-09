@@ -33,6 +33,7 @@ Your business. Further. Future.
 ## Organizational Chart
 
 ```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 40, "rankSpacing": 90, "diagramPadding": 20, "useMaxWidth": true}}}%%
 flowchart TB
 
     CEO["CEO / Founder<br/>Odenir Gomes"]
