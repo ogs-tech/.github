@@ -26,7 +26,7 @@ We lead with ethics, we grow with people.
 
 ## Slogan
 
-Your business. Further. Future.
+Your business. Further. Future Ready
 
 ---
 
@@ -41,15 +41,15 @@ flowchart TB
     CEO["Odenir Gomes<br/>Founder & CEO<br/>Strategy, product, delivery, and growth"]
 
     CEO --> TECH["Head of Technology<br/>Architecture, engineering, and platform<br/>Odenir Gomes"]
-    CEO --> PRODUCT["Head of Product<br/>Roadmap, discovery, and prioritization<br/>Odenir Gomes"]
+    CEO --> PRODUCT["Head of Product<br/>Roadmap, discovery, and prioritization<br/>Synue Cunioci"]
     CEO --> BUSINESS["Head of Commercial<br/>Sales, partnerships, and positioning<br/>Rosana Pinto"]
     CEO --> OPS["Head of Operations<br/>Delivery flow, customer care, and continuity<br/>Rosana Pinto"]
 
     TECH --> SDE["Software Development<br/>Feature delivery and code quality<br/>Odenir Gomes"]
     TECH --> DEVOPS["DevOps / Infrastructure<br/>Cloud, deployment, and reliability<br/>Odenir Gomes"]
 
-    PRODUCT --> PM["Product Management<br/>Requirements, validation, and planning<br/>Odenir Gomes"]
-    PRODUCT --> DESIGN["Design / UX<br/>Usability, interfaces, and consistency<br/>Odenir Gomes"]
+    PRODUCT --> PM["Product Management<br/>Requirements, validation, and planning<br/>Synue Cunioci"]
+    PRODUCT --> DESIGN["Design / UX<br/>Usability, interfaces, and consistency<br/>Synue Cunioci"]
 
     BUSINESS --> SALES["Sales<br/>Prospecting, proposals, and closing<br/>Rosana Pinto"]
     BUSINESS --> MKT["Marketing<br/>Content, branding, and digital presence<br/>Rosana Pinto"]
@@ -83,9 +83,9 @@ flowchart TB
 | Technology | Head of Technology | Oversees architecture, engineering quality, infrastructure, and technical decisions. | Odenir Gomes |
 | Technology | Software Development | Builds and maintains the company's core products and services. | Odenir Gomes |
 | Technology | DevOps / Infrastructure | Handles cloud setup, deployment flow, and operational reliability. | Odenir Gomes |
-| Product | Head of Product | Defines roadmap priorities and aligns delivery with customer needs. | Odenir Gomes |
-| Product | Product Management | Organizes requirements, validation, and execution priorities. | Odenir Gomes |
-| Product | Design / UX | Improves usability, interfaces, and visual consistency. | Odenir Gomes |
+| Product | Head of Product | Defines roadmap priorities and aligns delivery with customer needs. | Synue Cunioci |
+| Product | Product Management | Organizes requirements, validation, and execution priorities. | Synue Cunioci |
+| Product | Design / UX | Improves usability, interfaces, and visual consistency. | Synue Cunioci |
 | Commercial | Head of Commercial | Leads partnerships, proposals, and revenue generation efforts. | Rosana Pinto |
 | Commercial | Sales | Qualifies opportunities, runs conversations, and closes deals. | Rosana Pinto |
 | Commercial | Marketing | Strengthens positioning through content and digital presence. | Rosana Pinto |
