@@ -88,7 +88,7 @@ flowchart TB
 | Product | Design / UX | Improves usability, interfaces, and visual consistency. | Synue Cunioci |
 | Commercial | Head of Commercial | Leads partnerships, proposals, and revenue generation efforts. | Rosana Pinto |
 | Commercial | Sales | Qualifies opportunities, runs conversations, and closes deals. | Rosana Pinto |
-| Commercial | Marketing | Strengthens positioning through content and digital presence. | Rosana Pinto |
+| Commercial | Marketing | Strengthens positioning through content and digital presence. | Synue Cunioci |
 | Operations | Head of Operations | Coordinates delivery flow, internal routines, and service continuity. | Rosana Pinto |
 | Operations | Customer Success | Supports onboarding, adoption, and long-term customer value. | Rosana Pinto |
 | Operations | Support | Receives requests, triages issues, and coordinates responses. | Rosana Pinto |
