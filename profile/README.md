@@ -10,8 +10,12 @@ We build SaaS, artificial intelligence, and open source solutions to help compan
 
 | Project | Description |
 |---|---|
-| [**Royale Agent App**](https://github.com/ogs-tech/.github/blob/main/projects/royale-agent-app/README.md) | AI-powered agent app for Clash Royale players |
-| [**Noordhen**](https://github.com/ogs-tech/.github/blob/main/projects/noordhen/README.md) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
+| [**Royale Agent App**](https://github.com/ogs-tech/royale-agent-app) | AI-powered agent app for Clash Royale players |
+| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
+| [**Next in Site**](https://github.com/ogs-tech/cms-scaffold-cli) | One-command CLI that scaffolds production-ready full-stack content sites |
+| [**Specfy**](https://github.com/ogs-tech/company-ai-app) | Local-first desktop app to centralize AI context (skills, references, agent profiles) for engineering teams |
+| [**SDE AI App**](https://github.com/ogs-tech/sde-ai-app) | Local GUI to centralize AI artifacts in Markdown+YAML, synced via symlinks to Claude Code and Copilot |
+| [**Alephee**](https://github.com/ogs-tech/alephee) | Marketplace integration platform — core services, vendor SDK/adapters, and QA automation |
 
 ---
 

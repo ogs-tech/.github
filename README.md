@@ -6,8 +6,20 @@ Special repository for the [OGS Tech](https://ogsolucoes.com.br) GitHub organiza
 
 - [`profile/README.md`](profile/README.md) — public organization profile, displayed on the org's GitHub page
 - [`profile/about/README.md`](profile/about/README.md) — company mission, vision, values, slogan, and organizational chart
-- [`projects/noordhen/README.md`](projects/noordhen/README.md) — Noordhen project overview and architecture summary
-- [`projects/royale-agent-app/README.md`](projects/royale-agent-app/README.md) — Royale Agent App overview and repository reference
+
+## Projects
+
+### Alephee
+- [alephee](https://github.com/ogs-tech/alephee)
+
+### Noordhen
+- [noordhen](https://github.com/ogs-tech/noordhen)
+
+### Internal
+- [cms-scaffold-cli](https://github.com/ogs-tech/cms-scaffold-cli)
+- [company-ai-app](https://github.com/ogs-tech/company-ai-app)
+- [royale-agent-app](https://github.com/ogs-tech/royale-agent-app)
+- [sde-ai-app](https://github.com/ogs-tech/sde-ai-app)
 
 ## Learn More
 
