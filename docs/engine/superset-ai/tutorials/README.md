@@ -9,4 +9,4 @@
 - [ ] **Bootstrap a team `company-context`** with Specfy and export to one assistant.
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
-> Source details from `internal/sde-ai-app/docs/` (already Diátaxis).
+> Source details from `internal/sde-superset-ai-app/docs/` (already Diátaxis).

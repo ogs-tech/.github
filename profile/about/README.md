@@ -26,7 +26,22 @@ We lead with ethics, we grow with people.
 
 ## Slogan
 
-Your business. Further. Future Ready
+Your business. Further. Future Ready.
+
+---
+
+## Brand Umbrella
+
+OGS Tech operates as a **brand umbrella**: three brands, one underlying technology, each a
+different way of going to market.
+
+| Brand | Role | Goes to market as |
+|---|---|---|
+| 🤝 **OGS Partners** | *premium, bespoke* | Engineering and Support services for partner companies (Alephee, Noordhen) |
+| 🏭 **OGS Studio** | *scalable products* | Packaged products sold at scale (the Press, Royale IQ) |
+| ⚙️ **OGS Engine** | *the machine room* | Builds the technology and executes Partners' projects (Press, Agent AI, Superset AI) |
+
+➡️ Full picture: [Brand Architecture — the OGS umbrella](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 
 ---
 

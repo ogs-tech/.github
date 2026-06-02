@@ -6,8 +6,8 @@ Royale IQ is the productized form of the [Agent AI](../../engine/agent-ai/) core
 app that retrieves player profiles and gives AI-assisted deck analysis and coaching.
 
 - **Brand:** OGS Studio · Co. · Influencers (pro bono)
-- **Engine:** [Agent AI](../../engine/agent-ai/) — `internal/royale-agent-app`
-- **Repository:** [`ogs-tech/royale-agent-app`](https://github.com/ogs-tech/royale-agent-app)
+- **Engine:** [Agent AI](../../engine/agent-ai/) — `internal/royale-agent-ai-app`
+- **Repository:** [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app)
 
 ## Documentation (Diátaxis)
 

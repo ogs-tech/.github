@@ -24,10 +24,10 @@ inside each product. Start at [`docs/README.md`](docs/README.md), or jump to the
 - [noordhen](https://github.com/ogs-tech/noordhen)
 
 ### Internal
-- [cms-scaffold-cli](https://github.com/ogs-tech/cms-scaffold-cli)
-- [company-ai-app](https://github.com/ogs-tech/company-ai-app)
-- [royale-agent-app](https://github.com/ogs-tech/royale-agent-app)
-- [sde-ai-app](https://github.com/ogs-tech/sde-ai-app)
+- [cloud-press-cli](https://github.com/ogs-tech/cloud-press-cli)
+- [company-superset-ai-app](https://github.com/ogs-tech/company-superset-ai-app)
+- [royale-agent-ai-app](https://github.com/ogs-tech/royale-agent-ai-app)
+- [sde-superset-ai-app](https://github.com/ogs-tech/sde-superset-ai-app)
 
 ## Learn More
 

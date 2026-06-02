@@ -1,6 +1,6 @@
 # Agent AI — Reference
 
-> *Information-oriented.* Monorepo layout, stacks, and commands for `royale-agent-app`.
+> *Information-oriented.* Monorepo layout, stacks, and commands for `royale-agent-ai-app`.
 
 ## Monorepo
 
@@ -30,4 +30,4 @@ shared TypeScript contracts.
 
 ## Source files
 
-- `internal/royale-agent-app/README.md`, `CLAUDE.md`, `./.specify/docs/`
+- `internal/royale-agent-ai-app/README.md`, `CLAUDE.md`, `./.specify/docs/`

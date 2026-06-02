@@ -22,12 +22,12 @@ with the same underlying technology.
 
 ## OGS Partners — *premium, bespoke, high-margin*
 
-Custom partnerships. Work is **executed by OGS Engine**, and deliverables **may use the Press**.
-Two engagement types:
+**Services OGS provides** to partner companies, **executed by OGS Engine** — and deliverables
+**may use the Press**. Two service types:
 
-| Engagement | Meaning | Partner |
+| Service | What OGS provides | Partner |
 |---|---|---|
-| **Engineering** | Bespoke software engineering | **Alephee** — marketplace integration platform |
+| **Engineering** | Software engineering as a service | **Alephee** — building its marketplace integration platform |
 | **Support** | Ongoing operations support | **Noordhen** — custom operations platform for Noordhen Brasil |
 
 → Docs: [partners/](../partners/)
@@ -86,10 +86,10 @@ The brand umbrella does not map 1:1 to folders on disk. This is the canonical ma
 |---|---|
 | Partners · Engineering | `alephee/` (+ 6 sub-services) |
 | Partners · Support | `noordhen/` |
-| Studio · Press (OSS) / Engine · Press | `internal/cms-scaffold-cli` (Next in Site / NIS) |
-| Studio · Press (Cloud) | `internal/agency-cloud-app` |
-| Studio · Royale IQ / Engine · Agent AI | `internal/royale-agent-app` |
-| Engine · Superset AI | `internal/sde-ai-app` (Skillforge) + `internal/company-ai-app` (Specfy) |
+| Studio · Press (OSS) / Engine · Press | `internal/cloud-press-cli` (Cloud Press CLI) |
+| Studio · Press (Cloud) | `internal/cloud-press-cloud` |
+| Studio · Royale IQ / Engine · Agent AI | `internal/royale-agent-ai-app` |
+| Engine · Superset AI | `internal/sde-superset-ai-app` (SDE Superset AI App) + `internal/company-superset-ai-app` (Company Superset AI App) |
 
 > **Why Engine vs Studio for the same repo?** A single codebase can appear under both brands.
 > Engine documents *how it is built* (technical reference); Studio documents *how it is packaged

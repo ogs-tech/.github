@@ -2,12 +2,12 @@
 
 > **Premium · bespoke · high-margin** — `useogs.com/partners`
 
-Custom partnerships. Work is **executed by [OGS Engine](../engine/)**, and deliverables
-**may use the [Press](../studio/press/)**. Two engagement types:
+**Services OGS provides** to partner companies, executed by **[OGS Engine](../engine/)** — and
+deliverables **may use the [Press](../studio/press/)**. Two service types:
 
-| Engagement | Partner | What it is |
+| Service | Partner | What OGS delivers |
 |---|---|---|
-| **Engineering** | [Alephee](alephee/) | Marketplace integration platform |
-| **Support** | [Noordhen](noordhen/) | Custom operations platform for Noordhen Brasil |
+| **Engineering** | [Alephee](alephee/) | Software engineering service — building Alephee's marketplace integration platform |
+| **Support** | [Noordhen](noordhen/) | Ongoing operations support for Noordhen Brasil's platform |
 
 See [Brand Architecture](../explanation/brand-architecture.md) for how Partners fits the umbrella.

@@ -19,8 +19,8 @@ The apps are **local-first** — no backend, no API, no telemetry. Skillforge sy
 
 | App | Audience | Why separate |
 |---|---|---|
-| **Skillforge** (`sde-ai-app`) | one developer | fast personal dogfooding; spike with explicit stop rules |
-| **Specfy** (`company-ai-app`) | a team (5–20 devs) | git-based collaboration on a shared `company-context`; exports to more assistants (adds Codex) |
+| **Skillforge** (`sde-superset-ai-app`) | one developer | fast personal dogfooding; spike with explicit stop rules |
+| **Specfy** (`company-superset-ai-app`) | a team (5–20 devs) | git-based collaboration on a shared `company-context`; exports to more assistants (adds Codex) |
 
 Skillforge validates the single-user idea before Specfy invests in the team workflow.
 

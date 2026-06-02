@@ -14,22 +14,22 @@ Three brands, one umbrella.
 
 | Project | Description |
 |---|---|
-| [**Alephee**](https://github.com/ogs-tech/alephee) | Marketplace integration platform — core services, vendor SDK/adapters, and QA automation |
-| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
+| [**Alephee**](https://github.com/ogs-tech/alephee) | Software engineering service — building a marketplace integration platform (core services, vendor SDK/adapters, QA automation) |
+| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Operations support service for Noordhen Brasil's custom platform |
 
 ### 🏭 OGS Studio — *scalable products*
 
 | Project | Description |
 |---|---|
-| [**Next in Site**](https://github.com/ogs-tech/cms-scaffold-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
-| [**Royale IQ**](https://github.com/ogs-tech/royale-agent-app) | AI-powered coach app for Clash Royale players |
+| [**Cloud Press CLI**](https://github.com/ogs-tech/cloud-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
+| [**Royale Agent AI App**](https://github.com/ogs-tech/royale-agent-ai-app) | AI-powered coach app for Clash Royale players |
 
 ### ⚙️ OGS Engine — *the machine room*
 
 | Project | Description |
 |---|---|
-| [**Specfy**](https://github.com/ogs-tech/company-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
-| [**SDE AI App**](https://github.com/ogs-tech/sde-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
+| [**Company Superset AI App**](https://github.com/ogs-tech/company-superset-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
+| [**SDE Superset AI App**](https://github.com/ogs-tech/sde-superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
 
 ➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 

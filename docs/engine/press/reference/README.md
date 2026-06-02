@@ -9,7 +9,7 @@
 | Package | `@nis/create` |
 | Invocation | `@nis/create` (generator CLI) |
 | Goal | Scaffold a production-ready full-stack content-site monorepo in ≤2 min |
-| Repo | `internal/cms-scaffold-cli` |
+| Repo | `internal/cloud-press-cli` |
 
 ## Generated monorepo
 
@@ -31,4 +31,4 @@ The generator produces an opinionated **Turborepo-style** monorepo:
 
 ## Source files
 
-- `internal/cms-scaffold-cli/README.md`, `PRD`, `ARCH.md`
+- `internal/cloud-press-cli/README.md`, `PRD`, `ARCH.md`

@@ -6,15 +6,15 @@ OGS Studio Press is the productized form of the [Press CMS core](../../engine/pr
 through three doors depending on who is using it.
 
 - **Brand:** OGS Studio
-- **Engine:** [Press (CMS core)](../../engine/press/) — `internal/cms-scaffold-cli`
-- **Cloud repo:** [`ogs-tech/agency-cloud-app`](https://github.com/ogs-tech/agency-cloud-app) · folder `internal/agency-cloud-app`
+- **Engine:** [Press (CMS core)](../../engine/press/) — `internal/cloud-press-cli`
+- **Cloud repo:** [`ogs-tech/cloud-press-cloud`](https://github.com/ogs-tech/cloud-press-cloud) · folder `internal/cloud-press-cloud`
 
 ## The three doors
 
 | Door | Audience | Model | Where |
 |---|---|---|---|
 | **Open Source** | developers | free, self-host | NIS / `@nis/create` → [engine/press](../../engine/press/) |
-| **Cloud** | agencies | managed, paid | `agency-cloud-app` → [reference](reference/) |
+| **Cloud** | agencies | managed, paid | `cloud-press-cloud` → [reference](reference/) |
 | **Co.** | SMBs | done-for-you | operated by [Studio Co.](../co/) |
 
 ## Documentation (Diátaxis)
@@ -23,7 +23,7 @@ through three doors depending on who is using it.
 |---|---|
 | 📚 [Tutorials](tutorials/) | Get started with each door |
 | 🔧 [How-to guides](how-to/) | Onboard an agency, host a site… |
-| 📖 [Reference](reference/) | The Cloud offering (`agency-cloud-app`) |
+| 📖 [Reference](reference/) | The Cloud offering (`cloud-press-cloud`) |
 | 💡 [Explanation](explanation/) | Why three doors over one engine |
 
 > Technical reference for the engine itself lives in [engine/press](../../engine/press/).

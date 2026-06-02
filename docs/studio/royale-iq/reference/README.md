@@ -11,7 +11,7 @@
 | Model | Pro bono |
 | Platform | Mobile-first (web + native via Capacitor) |
 | Powered by | [Agent AI](../../../engine/agent-ai/) (AWS Lambda + LangGraph) |
-| Repository | `internal/royale-agent-app` |
+| Repository | `internal/royale-agent-ai-app` |
 | Status | Active development |
 
 ## Features
@@ -22,4 +22,4 @@
 ## Where to go next
 
 - Technical reference (monorepo, stacks, commands): [engine/agent-ai/reference](../../../engine/agent-ai/reference/)
-- In-repo docs: `internal/royale-agent-app/.specify/docs/`
+- In-repo docs: `internal/royale-agent-ai-app/.specify/docs/`
