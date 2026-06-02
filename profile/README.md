@@ -6,16 +6,32 @@ We build SaaS, artificial intelligence, and open source solutions to help compan
 
 ---
 
-## Projects
+## What we build
+
+Three brands, one umbrella.
+
+### 🤝 OGS Partners — *premium, bespoke*
 
 | Project | Description |
 |---|---|
-| [**Royale Agent App**](https://github.com/ogs-tech/royale-agent-app) | AI-powered agent app for Clash Royale players |
-| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
-| [**Next in Site**](https://github.com/ogs-tech/cms-scaffold-cli) | One-command CLI that scaffolds production-ready full-stack content sites |
-| [**Specfy**](https://github.com/ogs-tech/company-ai-app) | Local-first desktop app to centralize AI context (skills, references, agent profiles) for engineering teams |
-| [**SDE AI App**](https://github.com/ogs-tech/sde-ai-app) | Local GUI to centralize AI artifacts in Markdown+YAML, synced via symlinks to Claude Code and Copilot |
 | [**Alephee**](https://github.com/ogs-tech/alephee) | Marketplace integration platform — core services, vendor SDK/adapters, and QA automation |
+| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
+
+### 🏭 OGS Studio — *scalable products*
+
+| Project | Description |
+|---|---|
+| [**Next in Site**](https://github.com/ogs-tech/cms-scaffold-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
+| [**Royale IQ**](https://github.com/ogs-tech/royale-agent-app) | AI-powered coach app for Clash Royale players |
+
+### ⚙️ OGS Engine — *the machine room*
+
+| Project | Description |
+|---|---|
+| [**Specfy**](https://github.com/ogs-tech/company-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
+| [**SDE AI App**](https://github.com/ogs-tech/sde-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
+
+➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 
 ---
 
