@@ -14,8 +14,8 @@ Three brands, one umbrella.
 
 | Project | Description |
 |---|---|
-| [**Alephee**](https://github.com/ogs-tech/alephee) | Marketplace integration platform — core services, vendor SDK/adapters, and QA automation |
-| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Custom operations platform developed by OGS Tech for Noordhen Brasil |
+| [**Alephee**](https://github.com/ogs-tech/alephee) | Software engineering service — building a marketplace integration platform (core services, vendor SDK/adapters, QA automation) |
+| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Operations support service for Noordhen Brasil's custom platform |
 
 ### 🏭 OGS Studio — *scalable products*
 

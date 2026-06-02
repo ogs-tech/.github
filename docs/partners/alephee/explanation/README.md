@@ -2,6 +2,12 @@
 
 > *Understanding-oriented.* Why Alephee is built the way it is.
 
+## The engagement
+
+Alephee is an **OGS Partners · Engineering** engagement: OGS provides software engineering as a
+service, and the deliverable is the marketplace integration platform described below. The
+architecture choices here are OGS's, made to deliver that service well.
+
 ## The problem
 
 Every marketplace (Shopee, Bees, …) exposes a different API, different identifiers, and a

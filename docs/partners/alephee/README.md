@@ -1,12 +1,13 @@
 # Alephee
 
-> Marketplace integration platform — the **Engineering** partner under [OGS Partners](../).
+> A **software engineering service** OGS provides under [OGS Partners](../) (Engineering):
+> building and maintaining **Alephee**, a marketplace integration platform.
 
-Alephee lets vendors and platforms connect to ecommerce marketplaces (Shopee, Bees, and
-others) through a standardized **adapter pattern**, abstracting vendor-specific complexity
-behind canonical, URN-based data models.
+Alephee (the platform OGS builds for this engagement) lets vendors and platforms connect to
+ecommerce marketplaces (Shopee, Bees, and others) through a standardized **adapter pattern**,
+abstracting vendor-specific complexity behind canonical, URN-based data models.
 
-- **Brand:** OGS Partners · Engineering
+- **Brand:** OGS Partners · Engineering *(service we provide)*
 - **Repository:** [`ogs-tech/alephee`](https://github.com/ogs-tech/alephee) · folder `alephee/`
 - **Shape:** meta-repo of six independent git repos cloned side by side
 

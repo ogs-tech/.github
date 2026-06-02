@@ -22,12 +22,12 @@ with the same underlying technology.
 
 ## OGS Partners — *premium, bespoke, high-margin*
 
-Custom partnerships. Work is **executed by OGS Engine**, and deliverables **may use the Press**.
-Two engagement types:
+**Services OGS provides** to partner companies, **executed by OGS Engine** — and deliverables
+**may use the Press**. Two service types:
 
-| Engagement | Meaning | Partner |
+| Service | What OGS provides | Partner |
 |---|---|---|
-| **Engineering** | Bespoke software engineering | **Alephee** — marketplace integration platform |
+| **Engineering** | Software engineering as a service | **Alephee** — building its marketplace integration platform |
 | **Support** | Ongoing operations support | **Noordhen** — custom operations platform for Noordhen Brasil |
 
 → Docs: [partners/](../partners/)
