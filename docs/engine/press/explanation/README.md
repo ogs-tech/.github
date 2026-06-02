@@ -24,7 +24,7 @@ through three doors:
 | Door | Buyer | Model |
 |---|---|---|
 | Open Source | developers | free, self-host (this is **NIS / `@nis/create`**) |
-| Cloud | agencies | managed, paid → [agency-cloud-app](../../../studio/press/) |
+| Cloud | agencies | managed, paid → [cloud-press-cloud](../../../studio/press/) |
 | Co. | SMBs | done-for-you, operated by [Studio Co.](../../../studio/co/) |
 
 The same core engine serves all three; only the packaging and who operates it changes. See

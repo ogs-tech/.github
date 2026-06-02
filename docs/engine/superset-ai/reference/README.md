@@ -2,7 +2,7 @@
 
 > *Information-oriented.* The two apps, their stacks, and commands.
 
-## Skillforge — `sde-ai-app` (single developer)
+## Skillforge — `sde-superset-ai-app` (single developer)
 
 Desktop app that centralizes AI customizations (skills, references, agent profiles, global
 instructions) as Markdown + YAML, then syncs them to Claude Code and GitHub Copilot via
@@ -21,7 +21,7 @@ instructions) as Markdown + YAML, then syncs them to Claude Code and GitHub Copi
 - **Status:** Spike — single-developer dogfooding, time-boxed. See `docs/explanation/prd.md` for
   goals and stop rules. In-repo docs follow Diátaxis.
 
-## Specfy — `company-ai-app` (team)
+## Specfy — `company-superset-ai-app` (team)
 
 Sibling of Skillforge for engineering teams (5–20 devs): manage a centralized `company-context`
 repo of skills, references, and AI agent profiles; export to Claude Code, GitHub Copilot, and
@@ -36,5 +36,5 @@ OpenAI Codex.
 
 ## Source files
 
-- `internal/sde-ai-app/README.md`, `CLAUDE.md`, `docs/` (Diátaxis)
-- `internal/company-ai-app/README.md`, PRD
+- `internal/sde-superset-ai-app/README.md`, `CLAUDE.md`, `docs/` (Diátaxis)
+- `internal/company-superset-ai-app/README.md`, PRD

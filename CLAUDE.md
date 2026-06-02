@@ -31,7 +31,7 @@ Each product has the four [Diátaxis](https://diataxis.fr) quadrants (`tutorials
 
 - **Language: English.**
 - **One home per codebase:** Engine holds *technical* reference; Studio holds *product / GTM* framing; they cross-link instead of duplicating.
-- **Link, don't duplicate:** if a repo already has docs (e.g. `alephee/ui-core/docs/`, `sde-ai-app/docs/`), link to them from `reference/`.
+- **Link, don't duplicate:** if a repo already has docs (e.g. `alephee/ui-core/docs/`, `sde-superset-ai-app/docs/`), link to them from `reference/`.
 - **`_legacy/` is intentionally not documented.**
 - When adding a new project, place it under its brand and follow the Diátaxis quadrant structure.
 

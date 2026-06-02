@@ -6,7 +6,7 @@ Agent AI is OGS's AI core. Its first product is **Royale IQ**: a Clash Royale pl
 and deck-analysis app combining a serverless AI backend with a mobile-first front-end.
 
 - **Brand:** OGS Engine · product engine
-- **Repository:** [`ogs-tech/royale-agent-app`](https://github.com/ogs-tech/royale-agent-app) · folder `internal/royale-agent-app`
+- **Repository:** [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app) · folder `internal/royale-agent-ai-app`
 - **Productized as:** [Royale IQ](../../studio/royale-iq/) (Studio · influencers niche, pro bono)
 - **Status:** Active development
 

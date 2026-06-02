@@ -86,10 +86,10 @@ The brand umbrella does not map 1:1 to folders on disk. This is the canonical ma
 |---|---|
 | Partners · Engineering | `alephee/` (+ 6 sub-services) |
 | Partners · Support | `noordhen/` |
-| Studio · Press (OSS) / Engine · Press | `internal/cms-scaffold-cli` (Next in Site / NIS) |
-| Studio · Press (Cloud) | `internal/agency-cloud-app` |
-| Studio · Royale IQ / Engine · Agent AI | `internal/royale-agent-app` |
-| Engine · Superset AI | `internal/sde-ai-app` (Skillforge) + `internal/company-ai-app` (Specfy) |
+| Studio · Press (OSS) / Engine · Press | `internal/cloud-press-cli` (Next in Site / NIS) |
+| Studio · Press (Cloud) | `internal/cloud-press-cloud` |
+| Studio · Royale IQ / Engine · Agent AI | `internal/royale-agent-ai-app` |
+| Engine · Superset AI | `internal/sde-superset-ai-app` (Skillforge) + `internal/company-superset-ai-app` (Specfy) |
 
 > **Why Engine vs Studio for the same repo?** A single codebase can appear under both brands.
 > Engine documents *how it is built* (technical reference); Studio documents *how it is packaged

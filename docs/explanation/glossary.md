@@ -8,17 +8,17 @@
 | **OGS Partners** | Premium, bespoke engagement brand. Engineering + Support. `useogs.com/partners`. |
 | **OGS Studio** | Scalable brand that packages and sells products. `useogs.com/studio`. |
 | **OGS Engine** | The "machine room" — builds the core technology and executes Partners' projects. |
-| **Press** | The CMS core (engine) that becomes the **OGS Studio Press** product. Repo: `cms-scaffold-cli`. |
+| **Press** | The CMS core (engine) that becomes the **OGS Studio Press** product. Repo: `cloud-press-cli`. |
 | **Three doors (Press)** | Open Source (devs, self-host) · Cloud (agencies, managed) · Co. (SMBs, done-for-you). |
 | **OGS Studio Co.** | Done-for-you IT services for SMBs; operates the Press on clients' behalf. |
-| **Agent AI** | The AI core (engine) that becomes the **Royale IQ** app. Repo: `royale-agent-app`. |
+| **Agent AI** | The AI core (engine) that becomes the **Royale IQ** app. Repo: `royale-agent-ai-app`. |
 | **Royale IQ** | AI coach for Clash Royale players; pro bono, influencers niche. |
-| **Superset AI** | Internal desktop tool that helps the team use Claude. Repos: `sde-ai-app`, `company-ai-app`. |
+| **Superset AI** | Internal desktop tool that helps the team use Claude. Repos: `sde-superset-ai-app`, `company-superset-ai-app`. |
 | **Alephee** | Marketplace integration platform; the Engineering partner under OGS Partners. |
 | **Noordhen** | Custom operations platform for Noordhen Brasil; the Support partner under OGS Partners. |
 | **Diátaxis** | Documentation framework with four quadrants: Tutorials, How-to, Reference, Explanation. |
 | **NIS / Next in Site** | Product name for the Press open-source scaffolder (`@nis/create`). |
-| **Skillforge** | Product name of `sde-ai-app` (single-developer Superset AI). |
-| **Specfy** | Product name of `company-ai-app` (team Superset AI). |
+| **Skillforge** | Product name of `sde-superset-ai-app` (single-developer Superset AI). |
+| **Specfy** | Product name of `company-superset-ai-app` (team Superset AI). |
 
 See also: [Brand Architecture](brand-architecture.md) · [How it connects](how-it-connects.md)

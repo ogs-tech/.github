@@ -8,7 +8,7 @@ monorepo for content-driven sites in ≤2 minutes (CMS + front-end + shared type
 blocks wired end to end).
 
 - **Brand:** OGS Engine · product engine
-- **Repository:** [`ogs-tech/cms-scaffold-cli`](https://github.com/ogs-tech/cms-scaffold-cli) · folder `internal/cms-scaffold-cli`
+- **Repository:** [`ogs-tech/cloud-press-cli`](https://github.com/ogs-tech/cloud-press-cli) · folder `internal/cloud-press-cli`
 - **Productized as:** [OGS Studio Press](../../studio/press/) (three doors: OSS / Cloud / Co.)
 - **Status:** Discovery — PRD and `ARCH.md` in place
 

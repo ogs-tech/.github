@@ -9,8 +9,8 @@ implementations: a single-developer app and a team app.
 
 - **Brand:** OGS Engine · internal tool
 - **Repositories:**
-  - [`ogs-tech/sde-ai-app`](https://github.com/ogs-tech/sde-ai-app) — **Skillforge** (single developer) · folder `internal/sde-ai-app`
-  - [`ogs-tech/company-ai-app`](https://github.com/ogs-tech/company-ai-app) — **Specfy** (team) · folder `internal/company-ai-app`
+  - [`ogs-tech/sde-superset-ai-app`](https://github.com/ogs-tech/sde-superset-ai-app) — **Skillforge** (single developer) · folder `internal/sde-superset-ai-app`
+  - [`ogs-tech/company-superset-ai-app`](https://github.com/ogs-tech/company-superset-ai-app) — **Specfy** (team) · folder `internal/company-superset-ai-app`
 
 ## Documentation (Diátaxis)
 
@@ -25,5 +25,5 @@ implementations: a single-developer app and a team app.
 
 | App | Scope | Stack | Status |
 |---|---|---|---|
-| **Skillforge** (`sde-ai-app`) | single developer | Electron 41 · React 19 · MUI · Vitest · Zod | Spike (dogfooding) |
-| **Specfy** (`company-ai-app`) | team (5–20 devs) | likely Electron + React (mirrors Skillforge) | Discovery (PRD only) |
+| **Skillforge** (`sde-superset-ai-app`) | single developer | Electron 41 · React 19 · MUI · Vitest · Zod | Spike (dogfooding) |
+| **Specfy** (`company-superset-ai-app`) | team (5–20 devs) | likely Electron + React (mirrors Skillforge) | Discovery (PRD only) |

@@ -21,15 +21,15 @@ Three brands, one umbrella.
 
 | Project | Description |
 |---|---|
-| [**Next in Site**](https://github.com/ogs-tech/cms-scaffold-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
-| [**Royale IQ**](https://github.com/ogs-tech/royale-agent-app) | AI-powered coach app for Clash Royale players |
+| [**Next in Site**](https://github.com/ogs-tech/cloud-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
+| [**Royale IQ**](https://github.com/ogs-tech/royale-agent-ai-app) | AI-powered coach app for Clash Royale players |
 
 ### ⚙️ OGS Engine — *the machine room*
 
 | Project | Description |
 |---|---|
-| [**Specfy**](https://github.com/ogs-tech/company-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
-| [**SDE AI App**](https://github.com/ogs-tech/sde-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
+| [**Specfy**](https://github.com/ogs-tech/company-superset-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
+| [**SDE AI App**](https://github.com/ogs-tech/sde-superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
 
 ➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 

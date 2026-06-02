@@ -9,4 +9,4 @@
 - [ ] **Add an analysis step** — extend the LangGraph workflow with a new node.
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
-> Source details from `internal/royale-agent-app/.specify/docs/`.
+> Source details from `internal/royale-agent-ai-app/.specify/docs/`.
