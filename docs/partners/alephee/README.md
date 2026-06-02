@@ -10,6 +10,7 @@ abstracting vendor-specific complexity behind canonical, URN-based data models.
 - **Brand:** OGS Partners · Engineering *(service we provide)*
 - **Repository:** [`ogs-tech/alephee`](https://github.com/ogs-tech/alephee) · folder `alephee/`
 - **Shape:** meta-repo of six independent git repos cloned side by side
+- **Authoritative docs:** [`alephee/docs/`](https://github.com/ogs-tech/alephee/tree/main/docs) — the repo's own Diátaxis portal. This hub frames Alephee in the OGS umbrella; the portal is the working source.
 
 ## Documentation (Diátaxis)
 
@@ -31,5 +32,6 @@ abstracting vendor-specific complexity behind canonical, URN-based data models.
 | **qa-automation** | E2E BDD regression suite (multi-client, Allure reports) | Java · Gradle · Selenium · Cucumber |
 | **ui-core** | Shared React components + products front-end (`@alphee/ui-products`) | React 18 · Vite · MUI · TanStack Query |
 
-> Deepest existing docs: `alephee/ui-core/docs/` (already Diátaxis) and the SDK READMEs.
+> Deep docs live in the repo: the top-level [`alephee/docs/`](https://github.com/ogs-tech/alephee/tree/main/docs)
+> portal, `alephee/ui-core/docs/` (front-end Diátaxis), and the SDK READMEs.
 > This hub summarizes and links; it does not duplicate them.

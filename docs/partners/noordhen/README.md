@@ -8,6 +8,7 @@ two parallel environments: **Production** and **CProd** (a secondary instance).
 
 - **Brand:** OGS Partners · Support
 - **Repository:** [`ogs-tech/noordhen`](https://github.com/ogs-tech/noordhen) · folder `noordhen/`
+- **Authoritative docs:** [`noordhen/docs/`](https://github.com/ogs-tech/noordhen/tree/main/docs) — the repo's own Diátaxis portal. This hub frames Noordhen in the OGS umbrella; the portal is the working source.
 
 ## Documentation (Diátaxis)
 
