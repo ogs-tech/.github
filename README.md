@@ -4,8 +4,16 @@ Special repository for the [OGS Tech](https://ogsolucoes.com.br) GitHub organiza
 
 ## Contents
 
+- [`docs/`](docs/) — **organization-wide documentation hub** (brand umbrella + Diátaxis per product)
 - [`profile/README.md`](profile/README.md) — public organization profile, displayed on the org's GitHub page
 - [`profile/about/README.md`](profile/about/README.md) — company mission, vision, values, slogan, and organizational chart
+
+## Documentation
+
+The [`docs/`](docs/) hub documents every active service and product, organized by the **brand
+umbrella** (OGS Partners · OGS Studio · OGS Engine) with [Diátaxis](https://diataxis.fr) quadrants
+inside each product. Start at [`docs/README.md`](docs/README.md), or jump to the
+[brand architecture](docs/explanation/brand-architecture.md). Legacy projects are not documented.
 
 ## Projects
 
