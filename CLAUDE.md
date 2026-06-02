@@ -15,6 +15,25 @@ This is the **OGS Tech** GitHub organization's special `.github` repository. It 
 |---|---|
 | `profile/README.md` | Public org profile — visible to everyone on GitHub |
 | `README.md` | Repo description and roadmap |
+| `docs/` | Org-wide documentation hub — brand umbrella + Diátaxis per product (see below) |
+
+## Documentation Hub (`docs/`)
+
+`docs/` is the organization-wide documentation, organized by the **brand umbrella**, not by folder:
+
+- **`docs/explanation/`** — the umbrella itself: [`brand-architecture.md`](docs/explanation/brand-architecture.md), `how-it-connects.md`, `glossary.md`
+- **`docs/partners/`** — OGS Partners (Alephee, Noordhen)
+- **`docs/studio/`** — OGS Studio (Press, Co., Royale IQ)
+- **`docs/engine/`** — OGS Engine (Press CMS core, Agent AI, Superset AI)
+
+Each product has the four [Diátaxis](https://diataxis.fr) quadrants (`tutorials/`, `how-to/`,
+`reference/`, `explanation/`). Conventions:
+
+- **Language: English.**
+- **One home per codebase:** Engine holds *technical* reference; Studio holds *product / GTM* framing; they cross-link instead of duplicating.
+- **Link, don't duplicate:** if a repo already has docs (e.g. `alephee/ui-core/docs/`, `sde-ai-app/docs/`), link to them from `reference/`.
+- **`_legacy/` is intentionally not documented.**
+- When adding a new project, place it under its brand and follow the Diátaxis quadrant structure.
 
 ## Guidelines
 
