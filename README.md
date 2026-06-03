@@ -1,5 +1,7 @@
 # .github — OGS Tech
 
+**English** · [Português](README.pt-BR.md)
+
 Special repository for the [OGS Tech](https://ogsolucoes.com.br) GitHub organization.
 
 ## Contents

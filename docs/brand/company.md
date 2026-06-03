@@ -1,9 +1,9 @@
 # Company — mission, vision & values
 
 > *Understanding-oriented.* What OGS Tech is, what it delivers, for whom, and how.
-> Source: **OGS Tech Brand Manual** (*Manual de Marca*), V1.0 · 2026.
+> Source: **OGS Tech Brand Manual**, V1.0 · 2026.
 
-OGS Tech (legal entity **Odenir Gomes Soluções**, CNPJ 54.705.657/0001-83, São Paulo/SP)
+OGS Tech (legal entity **Odenir Gomes Solutions**, CNPJ 54.705.657/0001-83, São Paulo/SP)
 is built on four pillars. The visual identity exists to sustain these statements — see
 [Visual Identity](visual-identity.md) for the brand assets.
 
@@ -12,7 +12,7 @@ is built on four pillars. The visual identity exists to sustain these statements
 ## The four pillars
 
 ### 01 · Mission
-> **"Seu negócio. Além."** — *Technology that takes your business further.*
+> **"Your business. Further."** — *Technology that takes your business further.*
 
 We deliver technology solutions that unlock each client's next level — operational,
 commercial, and strategic.
@@ -36,14 +36,13 @@ Non-negotiable ethics in every decision. People first — in teams, in partners,
 
 ## Slogan & descriptor
 
-| Asset | Português (canonical) | English |
-|---|---|---|
-| **Slogan** | Seu negócio. Além. Future Ready. | Your business. Further. Future Ready. |
-| **Descriptor** | Tecnologia que leva seu negócio além | Technology that takes your business further |
-| **Tagline** | Tecnologia · Brasil | Technology · Brazil |
+| Asset | Form |
+|---|---|
+| **Slogan** | Your business. Further. Future Ready. |
+| **Descriptor** | Technology that takes your business further |
+| **Tagline** | Technology · Brazil |
 
-The Portuguese slogan is the canonical form for all Brazilian material; the English form is
-used for international decks and export context.
+This is the canonical positioning, used across all OGS Tech material.
 
 ---
 
@@ -55,7 +54,7 @@ The OGS mark synthesizes three ideas about the company:
 - **A tricolor ring (green · amber · blue)** — a contemporary, corporate reinterpretation of the
   Brazilian flag: reach, presence, trust.
 - **An "S" wave** crossing the equator — data in motion; the brand's personality and the "S" of
-  *Soluções*.
+  *Solutions*.
 
 ---
 

@@ -4,7 +4,7 @@
 
 | Term | Meaning |
 |---|---|
-| **OGS Tech** | Brand name of **Odenir Gomes Soluções** (CNPJ 54.705.657/0001-83), São Paulo/SP. |
+| **OGS Tech** | Brand name of **Odenir Gomes Solutions** (CNPJ 54.705.657/0001-83), São Paulo/SP. |
 | **OGS Partners** | Premium, bespoke engagement brand. Engineering + Support. `useogs.com/partners`. |
 | **OGS Studio** | Scalable brand that packages and sells products. `useogs.com/studio`. |
 | **OGS Engine** | The "machine room" — builds the core technology and executes Partners' projects. |
@@ -17,7 +17,7 @@
 | **Alephee** | Marketplace integration platform; the Engineering partner under OGS Partners. |
 | **Noordhen** | Custom operations platform for Noordhen Brasil; the Support partner under OGS Partners. |
 | **Diátaxis** | Documentation framework with four quadrants: Tutorials, How-to, Reference, Explanation. |
-| **Brand Manual** | *Manual de Marca*, V1.0 · 2026 — the source for the brand identity. See [Brand](../brand/). |
+| **Brand Manual** | V1.0 · 2026 — the source for the brand identity. See [Brand](../brand/). |
 | **Ring (tricolor)** | The three arcs around the globe — green (reach), amber (presence), blue (trust). |
 | **NIS / Next in Site** | Product name for the Press open-source scaffolder (`@nis/create`). |
 | **Skillforge** | Product name of `sde-superset-ai-app` (single-developer Superset AI). |
