@@ -1,5 +1,8 @@
 # OGS Engine
 
+<!-- nav -->
+[Docs](../) › OGS Engine
+
 > **The machine room** — builds the technology, executes Partners' projects *(internal)*
 
 Engine is where the **product engines** live. Two engines graduate into products sold by
@@ -15,3 +18,7 @@ Engine is where the **product engines** live. Two engines graduate into products
 > *how it is packaged and sold* (product framing). They cross-link instead of duplicating.
 
 See [Brand Architecture](../explanation/brand-architecture.md) for the full umbrella.
+
+---
+
+↑ [Docs Hub](../)

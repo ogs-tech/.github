@@ -1,5 +1,8 @@
 # Superset AI — internal tooling *(OGS Engine)*
 
+<!-- nav -->
+[Docs](../../) › [OGS Engine](../) › Superset AI
+
 > Desktop tooling that **helps the OGS team use Claude** and its adaptations. Internal use only —
 > it does **not** graduate into a sold product.
 
@@ -23,3 +26,8 @@ instructions) as Markdown + YAML and syncs them to AI coding assistants.
 | App | Scope | Stack | Status |
 |---|---|---|---|
 | **Superset AI App** (`superset-ai-app`) | single developer | Electron 41 · React 19 · MUI · Vitest · Zod | Spike (dogfooding) |
+
+---
+
+📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
+↑ [OGS Engine](../) · [Docs Hub](../../)

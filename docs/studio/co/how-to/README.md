@@ -1,5 +1,8 @@
 # OGS Studio Co. — How-to guides
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Co.](../) › How-to
+
 > *Task-oriented.* Service-delivery recipes.
 
 ## Planned guides *(stubs — to be written)*
@@ -9,3 +12,8 @@
 - [ ] **Escalate a support request** within an SLA tier.
 
 > Template: *Goal → Prerequisites → Steps → Verify → Troubleshooting.*
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 How-to · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Co.](../) · [Docs Hub](../../../)

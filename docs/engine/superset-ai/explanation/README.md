@@ -1,5 +1,8 @@
 # Superset AI — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Superset AI](../) › Explanation
+
 > *Understanding-oriented.* Why Superset AI exists.
 
 ## The problem
@@ -20,3 +23,8 @@ The app is **local-first** — no backend, no API, no telemetry. It syncs to ass
 Unlike Press and Agent AI, Superset AI does **not** graduate into a Studio product — it is the
 team's own leverage for working effectively with Claude and other assistants. See
 [Brand Architecture](../../../explanation/brand-architecture.md).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Superset AI](../) · [Docs Hub](../../../)

@@ -1,5 +1,8 @@
 # Agent AI — Tutorials
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Agent AI](../) › Tutorials
+
 > *Learning-oriented.* Guided lessons for someone new to the Agent AI codebase.
 
 ## Planned tutorials *(stubs — to be written)*
@@ -10,3 +13,8 @@
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
 > Source details from `internal/royale-agent-ai-app/.specify/docs/`.
+
+---
+
+📚 Tutorials · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Agent AI](../) · [Docs Hub](../../../)

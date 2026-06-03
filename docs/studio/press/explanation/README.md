@@ -1,5 +1,8 @@
 # OGS Studio Press — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Press](../) › Explanation
+
 > *Understanding-oriented.* Why one engine is sold through three doors.
 
 ## One engine, three buyers
@@ -21,3 +24,8 @@ and Co. fleets maintainable — the same property that makes self-host upgrades 
 Press is the clearest example of the OGS model: **OGS Engine builds the core; OGS Studio packages
 and sells it.** The doors are pure go-to-market — the technology underneath is shared. See
 [How it connects](../../../explanation/how-it-connects.md).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Press](../) · [Docs Hub](../../../)

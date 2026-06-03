@@ -1,5 +1,8 @@
 # Press (CMS core) — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Press](../) › Explanation
+
 > *Understanding-oriented.* Why the Press engine exists and how it becomes a product.
 
 ## Why a scaffolder, not a framework
@@ -29,3 +32,8 @@ through three doors:
 
 The same core engine serves all three; only the packaging and who operates it changes. See
 [How it connects](../../../explanation/how-it-connects.md).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Press](../) · [Docs Hub](../../../)

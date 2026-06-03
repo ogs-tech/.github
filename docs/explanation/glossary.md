@@ -1,5 +1,8 @@
 # Glossary
 
+<!-- nav -->
+[Docs](../) › Glossary
+
 > *Understanding-oriented.* Shared vocabulary for the OGS umbrella.
 
 | Term | Meaning |
@@ -22,3 +25,7 @@
 | **NIS / Next in Site** | Product name for the Press open-source scaffolder (`@nis/create`). |
 
 See also: [Brand Architecture](brand-architecture.md) · [How it connects](how-it-connects.md) · [Brand identity](../brand/)
+
+---
+
+↑ [Docs Hub](../)

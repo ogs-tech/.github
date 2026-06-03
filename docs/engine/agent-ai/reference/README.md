@@ -1,5 +1,8 @@
 # Agent AI — Reference
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Agent AI](../) › Reference
+
 > *Information-oriented.* Monorepo layout, stacks, and commands for `royale-agent-ai-app`.
 
 ## Monorepo
@@ -31,3 +34,8 @@ shared TypeScript contracts.
 ## Source files
 
 - [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app): `README.md`, [`.specify/docs/`](https://github.com/ogs-tech/royale-agent-ai-app/tree/main/.specify/docs)
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Agent AI](../) · [Docs Hub](../../../)

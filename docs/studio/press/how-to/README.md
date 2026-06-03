@@ -1,5 +1,8 @@
 # OGS Studio Press — How-to guides
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Press](../) › How-to
+
 > *Task-oriented.* Recipes across the three doors.
 
 ## Planned guides *(stubs — to be written)*
@@ -9,3 +12,8 @@
 - [ ] **Choose the right door** for a given buyer (OSS vs Cloud vs Co.).
 
 > Template: *Goal → Prerequisites → Steps → Verify → Troubleshooting.*
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 How-to · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Press](../) · [Docs Hub](../../../)

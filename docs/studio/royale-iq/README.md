@@ -1,5 +1,8 @@
 # Royale IQ
 
+<!-- nav -->
+[Docs](../../) › [OGS Studio](../) › Royale IQ
+
 > AI coach for **Clash Royale** players — **pro bono**, in the influencers niche of [Studio Co.](../co/)
 
 Royale IQ is the productized form of the [Agent AI](../../engine/agent-ai/) core: a mobile-first
@@ -20,3 +23,8 @@ app that retrieves player profiles and gives AI-assisted deck analysis and coach
 
 > Technical reference (stacks, commands, architecture) lives in
 > [engine/agent-ai](../../engine/agent-ai/). This page is the *product* home.
+
+---
+
+📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
+↑ [OGS Studio](../) · [Docs Hub](../../)

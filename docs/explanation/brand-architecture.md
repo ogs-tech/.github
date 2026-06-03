@@ -1,5 +1,8 @@
 # Brand Architecture — the OGS umbrella
 
+<!-- nav -->
+[Docs](../) › Brand Architecture
+
 > *Understanding-oriented.* This page explains how OGS Tech is structured as a **brand
 > umbrella**, why each brand exists, and where every product and service fits.
 
@@ -100,3 +103,7 @@ Legacy and archived projects (`_legacy/`) are intentionally **not** documented h
 ---
 
 See also: [How it connects](how-it-connects.md) · [Glossary](glossary.md)
+
+---
+
+↑ [Docs Hub](../)

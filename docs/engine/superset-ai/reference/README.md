@@ -1,5 +1,8 @@
 # Superset AI — Reference
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Superset AI](../) › Reference
+
 > *Information-oriented.* The app, its stack, and commands.
 
 ## Superset AI App — `superset-ai-app` (single developer)
@@ -24,3 +27,8 @@ instructions) as Markdown + YAML, then syncs them to Claude Code and GitHub Copi
 ## Source files
 
 - [`ogs-tech/superset-ai-app`](https://github.com/ogs-tech/superset-ai-app): `README.md`, [`docs/`](https://github.com/ogs-tech/superset-ai-app/tree/main/docs) — the repo's own Diátaxis portal (authoritative)
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Superset AI](../) · [Docs Hub](../../../)

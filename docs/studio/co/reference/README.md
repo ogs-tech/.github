@@ -1,5 +1,8 @@
 # OGS Studio Co. — Reference
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Co.](../) › Reference
+
 > *Information-oriented.* Service catalog and terms.
 
 Studio Co. operates products rather than shipping its own codebase, so its "reference" is a
@@ -14,3 +17,8 @@ Studio Co. operates products rather than shipping its own codebase, so its "refe
 
 > Underlying platform: [OGS Studio Press](../../press/) (Co. door) → engine
 > [Press (CMS core)](../../../engine/press/).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Co.](../) · [Docs Hub](../../../)

@@ -1,5 +1,8 @@
 # Press — CMS core *(OGS Engine)*
 
+<!-- nav -->
+[Docs](../../) › [OGS Engine](../) › Press
+
 > The **CMS core engine** that becomes the [OGS Studio Press](../../studio/press/) product.
 
 Press is the engine behind OGS's content-site offering. Its open-source face is **Next in Site
@@ -23,3 +26,8 @@ blocks wired end to end).
 
 > Studio framing (how it's sold through three doors) lives in [studio/press](../../studio/press/).
 > This Engine page is the *technical* home.
+
+---
+
+📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
+↑ [OGS Engine](../) · [Docs Hub](../../)

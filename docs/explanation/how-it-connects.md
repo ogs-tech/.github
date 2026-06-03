@@ -1,5 +1,8 @@
 # How it connects
 
+<!-- nav -->
+[Docs](../) › How it connects
+
 > *Understanding-oriented.* How the three brands feed each other.
 
 The three brands are not independent silos — they form a value chain:
@@ -37,3 +40,7 @@ Superset AI is the exception: it stays internal — a desktop tool that helps th
 with Claude and its adaptations.
 
 See also: [Brand Architecture](brand-architecture.md) · [Glossary](glossary.md)
+
+---
+
+↑ [Docs Hub](../)

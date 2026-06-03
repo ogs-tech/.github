@@ -1,5 +1,8 @@
 # Press (CMS core) — Reference
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Press](../) › Reference
+
 > *Information-oriented.* The `@nis/create` CLI and what it generates.
 
 ## CLI
@@ -32,3 +35,8 @@ The generator produces an opinionated **Turborepo-style** monorepo:
 ## Source files
 
 - [`ogs-tech/studio-press-cli`](https://github.com/ogs-tech/studio-press-cli): `README.md`, `PRD`, `ARCH.md`
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Press](../) · [Docs Hub](../../../)

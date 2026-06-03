@@ -1,5 +1,8 @@
 # Press (CMS core) — Tutorials
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Press](../) › Tutorials
+
 > *Learning-oriented.* Guided lessons for someone new to the Press scaffolder.
 
 ## Planned tutorials *(stubs — to be written)*
@@ -9,3 +12,8 @@
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
 > Source the exact stack and commands from `internal/studio-press-cli/ARCH.md`.
+
+---
+
+📚 Tutorials · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Press](../) · [Docs Hub](../../../)

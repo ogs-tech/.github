@@ -1,5 +1,8 @@
 # Royale IQ — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Royale IQ](../) › Explanation
+
 > *Understanding-oriented.* Why Royale IQ exists and where it sits in the umbrella.
 
 ## Why pro bono, why this niche
@@ -22,3 +25,8 @@ validate Agent AI before broader use.
 
 See [Brand Architecture](../../../explanation/brand-architecture.md) and
 [engine/agent-ai/explanation](../../../engine/agent-ai/explanation/).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Royale IQ](../) · [Docs Hub](../../../)

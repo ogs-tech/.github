@@ -1,5 +1,8 @@
 # OGS Studio Press — Tutorials
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Press](../) › Tutorials
+
 > *Learning-oriented.* Getting started with each door of the Press.
 
 ## Planned tutorials *(stubs — to be written)*
@@ -9,3 +12,8 @@
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
 > Cloud specifics depend on `studio-press-cloud` (currently discovery — fill in after `ARCH.md`).
+
+---
+
+📚 Tutorials · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Press](../) · [Docs Hub](../../../)
