@@ -22,7 +22,7 @@ independently.
 
 ## Why Strapi + MySQL
 
-The content and operational data are modeled in **Strapi 3** (headless CMS) over **MySQL**, which
+The content and operational data are modeled in **Strapi 3.x** (headless CMS) over **MySQL**, which
 gives non-developers an admin UI to manage records while the React front-ends consume the API.
 
 ## Why a separate backup service

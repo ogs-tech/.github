@@ -36,5 +36,5 @@ OpenAI Codex.
 
 ## Source files
 
-- `internal/sde-superset-ai-app/README.md`, `CLAUDE.md`, `docs/` (Diátaxis)
-- `internal/company-superset-ai-app/README.md`, PRD
+- [`ogs-tech/sde-superset-ai-app`](https://github.com/ogs-tech/sde-superset-ai-app): `README.md`, [`docs/`](https://github.com/ogs-tech/sde-superset-ai-app/tree/main/docs) — the repo's own Diátaxis portal (authoritative)
+- [`ogs-tech/company-superset-ai-app`](https://github.com/ogs-tech/company-superset-ai-app): `README.md`, PRD

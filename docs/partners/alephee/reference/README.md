@@ -46,7 +46,7 @@ with tag-driven runs and Allure reporting.
 - **Role:** validates flows across core-services, ui-core, and vendor integrations; reports publish to GitHub Pages nightly
 
 ### ui-core
-Shared React component library and products front-end (`@alphee/ui-products`); catalogs,
+Shared React component library and products front-end (`@alephee/ui-products`); catalogs,
 publications, pricing, stock uploads with bulk import flows.
 - **Stack:** React 18 + TypeScript (strict) + Vite (SWC), MUI v5 + Tailwind, TanStack Query v4, Formik/Yup, i18next
 - **Commands:** `yarn dev` (proxies `/api` → `gateway-test.alephee.com`), `yarn build`, `yarn lint`

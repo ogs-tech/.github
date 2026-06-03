@@ -30,7 +30,7 @@ abstracting vendor-specific complexity behind canonical, URN-based data models.
 | **vendors-integration** | Concrete vendor adapters (Shopee, mocks) + shared vendor services | NestJS · Lerna · Kong |
 | **vendors-bees-adapter** | Standalone adapter for the Bees platform | NestJS · MongoDB · BullMQ/Redis |
 | **qa-automation** | E2E BDD regression suite (multi-client, Allure reports) | Java · Gradle · Selenium · Cucumber |
-| **ui-core** | Shared React components + products front-end (`@alphee/ui-products`) | React 18 · Vite · MUI · TanStack Query |
+| **ui-core** | Shared React components + products front-end (`@alephee/ui-products`) | React 18 · Vite · MUI · TanStack Query |
 
 > Deep docs live in the repo: the top-level [`alephee/docs/`](https://github.com/ogs-tech/alephee/tree/main/docs)
 > portal, `alephee/ui-core/docs/` (front-end Diátaxis), and the SDK READMEs.
