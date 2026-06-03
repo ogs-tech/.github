@@ -22,6 +22,6 @@ and the Lambda functions stay in sync without a hand-maintained API spec.
 
 ## The engine → product path
 
-Agent AI is the **engine**; **Royale IQ** is the productized form sold (pro bono) under
+Agent AI is the **engine**; **Royale IQ** is the productized form distributed (pro bono) by
 [OGS Studio](../../../studio/royale-iq/), in the influencers niche. The engine is intended to power
 future AI products beyond Royale IQ. See [How it connects](../../../explanation/how-it-connects.md).

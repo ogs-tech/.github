@@ -47,7 +47,7 @@ different way of going to market.
 
 ## Organizational Chart
 
-The chart below follows common organizational chart best practices: a clear top-down hierarchy, grouped responsibilities by area, and a short description inside each role card. At OGS Tech's current stage, **Odenir Gomes** leads the Leadership, Technology, and Product areas, while **Rosana Pinto** leads all Commercial and Operations roles.
+The chart below follows common organizational chart best practices: a clear top-down hierarchy, grouped responsibilities by area, and a short description inside each role card. At OGS Tech's current stage, **Odenir Gomes** leads the Leadership, Technology, and Product areas, while **Rosana Pinto** leads the Commercial and Operations areas — with **Marketing** led by **Synue Cunioci**.
 
 ```mermaid
 %%{init: {"flowchart": {"nodeSpacing": 55, "rankSpacing": 95, "diagramPadding": 28, "useMaxWidth": true}}}%%
@@ -67,7 +67,7 @@ flowchart TB
     PRODUCT --> DESIGN["Design / UX<br/>Usability, interfaces, and consistency<br/>Synue Cunioci"]
 
     BUSINESS --> SALES["Sales<br/>Prospecting, proposals, and closing<br/>Rosana Pinto"]
-    BUSINESS --> MKT["Marketing<br/>Content, branding, and digital presence<br/>Rosana Pinto"]
+    BUSINESS --> MKT["Marketing<br/>Content, branding, and digital presence<br/>Synue Cunioci"]
 
     OPS --> CS["Customer Success<br/>Onboarding, adoption, and retention<br/>Rosana Pinto"]
     OPS --> SUPPORT["Support<br/>Issues, triage, and service continuity<br/>Rosana Pinto"]
@@ -90,7 +90,7 @@ flowchart TB
 
 ## Current Roles and Responsibilities
 
-> At the current stage of OGS Tech, the Leadership, Technology, and Product roles are currently occupied by **Odenir Gomes**, while all Commercial and Operations roles are currently occupied by **Rosana Pinto**.
+> At the current stage of OGS Tech, the Leadership, Technology, and Product roles are currently occupied by **Odenir Gomes**, while the Commercial and Operations roles are occupied by **Rosana Pinto** — except **Marketing**, which is led by **Synue Cunioci**.
 
 | Area | Role | Description | Current Collaborator |
 |---|---|---|---|

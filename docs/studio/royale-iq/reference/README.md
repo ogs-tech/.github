@@ -9,8 +9,8 @@
 | What | AI coach for Clash Royale players — profile retrieval + deck analysis |
 | Brand path | OGS Studio · Co. · Influencers |
 | Model | Pro bono |
-| Platform | Mobile-first (web + native via Capacitor) |
-| Powered by | [Agent AI](../../../engine/agent-ai/) (AWS Lambda + LangGraph) |
+| Platform | Mobile-first (web + native) |
+| Powered by | [Agent AI](../../../engine/agent-ai/) — the Engine AI core (stack → [reference](../../../engine/agent-ai/reference/)) |
 | Repository | `internal/royale-agent-ai-app` |
 | Status | Active development |
 

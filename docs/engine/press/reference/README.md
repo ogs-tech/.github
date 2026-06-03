@@ -31,4 +31,4 @@ The generator produces an opinionated **Turborepo-style** monorepo:
 
 ## Source files
 
-- `internal/cloud-press-cli/README.md`, `PRD`, `ARCH.md`
+- [`ogs-tech/cloud-press-cli`](https://github.com/ogs-tech/cloud-press-cli): `README.md`, `PRD`, `ARCH.md`

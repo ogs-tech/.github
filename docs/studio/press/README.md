@@ -7,7 +7,7 @@ through three doors depending on who is using it.
 
 - **Brand:** OGS Studio
 - **Engine:** [Press (CMS core)](../../engine/press/) — `internal/cloud-press-cli`
-- **Cloud repo:** [`ogs-tech/cloud-press-cloud`](https://github.com/ogs-tech/cloud-press-cloud) · folder `internal/cloud-press-cloud`
+- **Cloud repo:** `ogs-tech/cloud-press-cloud` *(planned)* · folder `internal/cloud-press-cloud`
 
 ## The three doors
 

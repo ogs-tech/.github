@@ -26,8 +26,8 @@ shared TypeScript contracts.
 ## Status & docs
 
 - **Phase:** Active development
-- **In-repo docs:** `./.specify/docs/` (index, architecture, integrations, operations)
+- **In-repo docs:** [`.specify/docs/`](https://github.com/ogs-tech/royale-agent-ai-app/tree/main/.specify/docs) (index, architecture, integrations, operations)
 
 ## Source files
 
-- `internal/royale-agent-ai-app/README.md`, `CLAUDE.md`, `./.specify/docs/`
+- [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app): `README.md`, [`.specify/docs/`](https://github.com/ogs-tech/royale-agent-ai-app/tree/main/.specify/docs)

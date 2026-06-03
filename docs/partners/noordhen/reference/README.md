@@ -32,7 +32,7 @@
 
 ## Stack summary
 
-- **Frontend:** React 16/17, TypeScript, Bootstrap 4/5, Styled Components
-- **Backend:** Strapi 3 (Headless CMS), MySQL
+- **Frontend:** React 16/17, TypeScript, Bootstrap 4, Styled Components
+- **Backend:** Strapi 3.x (Headless CMS), MySQL
 - **Backup service:** NestJS 10, Prisma, MySQL, SSH
 - **Runtime:** Node.js
