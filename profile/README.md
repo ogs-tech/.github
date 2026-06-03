@@ -21,13 +21,13 @@ Three brands, one umbrella.
 
 | Project | Description |
 |---|---|
-| [**Cloud Press CLI**](https://github.com/ogs-tech/cloud-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
 | [**Royale Agent AI App**](https://github.com/ogs-tech/royale-agent-ai-app) | AI-powered coach app for Clash Royale players |
 
 ### ⚙️ OGS Engine — *the machine room*
 
 | Project | Description |
 |---|---|
+| [**Cloud Press CLI**](https://github.com/ogs-tech/cloud-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
 | [**Company Superset AI App**](https://github.com/ogs-tech/company-superset-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
 | [**SDE Superset AI App**](https://github.com/ogs-tech/sde-superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
 
