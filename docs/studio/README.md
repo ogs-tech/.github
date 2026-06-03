@@ -1,5 +1,8 @@
 # OGS Studio
 
+<!-- nav -->
+[Docs](../) › OGS Studio
+
 > **Scalable · packages & sells** — `useogs.com/studio`
 
 Studio takes what [OGS Engine](../engine/) builds, **packages it as a product, and sells it**.
@@ -19,3 +22,7 @@ Studio takes what [OGS Engine](../engine/) builds, **packages it as a product, a
 | Co. | SMBs | done-for-you | [co/](co/) |
 
 See [Brand Architecture](../explanation/brand-architecture.md) and [How it connects](../explanation/how-it-connects.md).
+
+---
+
+↑ [Docs Hub](../)

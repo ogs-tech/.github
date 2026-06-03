@@ -1,5 +1,8 @@
 # Agent AI — AI core *(OGS Engine)*
 
+<!-- nav -->
+[Docs](../../) › [OGS Engine](../) › Agent AI
+
 > The **AI core engine** that becomes the [Royale IQ](../../studio/royale-iq/) app.
 
 Agent AI is OGS's AI core. Its first product is **Royale IQ**: a Clash Royale player-profile
@@ -21,3 +24,8 @@ and deck-analysis app combining a serverless AI backend with a mobile-first fron
 
 > Product framing (positioning, audience) lives in [studio/royale-iq](../../studio/royale-iq/).
 > This Engine page is the *technical* home.
+
+---
+
+📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
+↑ [OGS Engine](../) · [Docs Hub](../../)

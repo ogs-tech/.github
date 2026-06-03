@@ -1,5 +1,8 @@
 # Alephee
 
+<!-- nav -->
+[Docs](../../) › [OGS Partners](../) › Alephee
+
 > A **software engineering service** OGS provides under [OGS Partners](../) (Engineering):
 > building and maintaining **Alephee**, a marketplace integration platform.
 
@@ -21,3 +24,7 @@ duplicate them.
 - **Meta-repo guide:** [`alephee/CLAUDE.md`](https://github.com/ogs-tech/alephee/blob/main/CLAUDE.md)
 
 See [Brand Architecture](../../explanation/brand-architecture.md) for how Partners fits the umbrella.
+
+---
+
+↑ [OGS Partners](../) · [Docs Hub](../../)

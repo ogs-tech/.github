@@ -1,5 +1,8 @@
 # OGS Partners
 
+<!-- nav -->
+[Docs](../) › OGS Partners
+
 > **Premium · bespoke · high-margin** — `useogs.com/partners`
 
 **Services OGS provides** to partner companies, executed by **[OGS Engine](../engine/)** — and
@@ -11,3 +14,7 @@ deliverables **may use the [Press](../studio/press/)**. Two service types:
 | **Support** | [Noordhen](noordhen/) | Ongoing operations support for Noordhen Brasil's platform |
 
 See [Brand Architecture](../explanation/brand-architecture.md) for how Partners fits the umbrella.
+
+---
+
+↑ [Docs Hub](../)

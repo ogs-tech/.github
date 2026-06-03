@@ -40,9 +40,8 @@ Três marcas, um guarda-chuva.
 
 | Projeto | Descrição |
 |---|---|
-| [**Cloud Press CLI**](https://github.com/ogs-tech/cloud-press-cli) | Press — CLI de um comando que gera sites de conteúdo full-stack prontos para produção |
-| [**Company Superset AI App**](https://github.com/ogs-tech/company-superset-ai-app) | Superset AI — centraliza o contexto de IA (skills, referências, perfis de agente) para times de engenharia |
-| [**SDE Superset AI App**](https://github.com/ogs-tech/sde-superset-ai-app) | Superset AI — centraliza artefatos de IA em Markdown+YAML, sincronizados com Claude Code e Copilot |
+| [**Studio Press CLI**](https://github.com/ogs-tech/studio-press-cli) | Press — CLI de um comando que gera sites de conteúdo full-stack prontos para produção |
+| [**Superset AI App**](https://github.com/ogs-tech/superset-ai-app) | Superset AI — centraliza artefatos de IA em Markdown+YAML, sincronizados com Claude Code e Copilot |
 
 ➡️ Arquitetura de marca completa: [como o guarda-chuva se conecta](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 

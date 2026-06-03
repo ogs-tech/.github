@@ -1,5 +1,8 @@
 # Agent AI — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Agent AI](../) › Explanation
+
 > *Understanding-oriented.* Why the AI core is built this way.
 
 ## Serverless backend + mobile front-end
@@ -25,3 +28,8 @@ and the Lambda functions stay in sync without a hand-maintained API spec.
 Agent AI is the **engine**; **Royale IQ** is the productized form distributed (pro bono) by
 [OGS Studio](../../../studio/royale-iq/), in the influencers niche. The engine is intended to power
 future AI products beyond Royale IQ. See [How it connects](../../../explanation/how-it-connects.md).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Agent AI](../) · [Docs Hub](../../../)

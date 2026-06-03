@@ -1,5 +1,8 @@
 # OGS Studio Co. — Explanation
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Co.](../) › Explanation
+
 > *Understanding-oriented.* Why a done-for-you service, and how it fits the umbrella.
 
 ## Why done-for-you
@@ -24,3 +27,8 @@ the third door is simply "we run it for you."
 
 See [Brand Architecture](../../../explanation/brand-architecture.md) and
 [How it connects](../../../explanation/how-it-connects.md).
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 Explanation
+↑ [Co.](../) · [Docs Hub](../../../)

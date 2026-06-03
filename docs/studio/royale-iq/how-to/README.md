@@ -1,5 +1,8 @@
 # Royale IQ — How-to guides
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Royale IQ](../) › How-to
+
 > *Task-oriented.* Recipes for players.
 
 ## Planned guides *(stubs — to be written)*
@@ -10,3 +13,8 @@
 > Developer tasks (run backend/front-end, deploy) live in
 > [engine/agent-ai/how-to](../../../engine/agent-ai/how-to/).
 > Template: *Goal → Prerequisites → Steps → Verify → Troubleshooting.*
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 How-to · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Royale IQ](../) · [Docs Hub](../../../)

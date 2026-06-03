@@ -1,5 +1,8 @@
 # Company — mission, vision & values
 
+<!-- nav -->
+[Docs](../) › [Brand](README.md) › Company
+
 > *Understanding-oriented.* What OGS Tech is, what it delivers, for whom, and how.
 > Source: **OGS Tech Brand Manual**, V1.0 · 2026.
 
@@ -59,3 +62,7 @@ The OGS mark synthesizes three ideas about the company:
 ---
 
 See also: [Visual Identity](visual-identity.md) · [Brand Architecture](../explanation/brand-architecture.md) · [Glossary](../explanation/glossary.md)
+
+---
+
+↑ [Brand](README.md) · [Docs Hub](../)

@@ -1,5 +1,8 @@
 # Agent AI — How-to guides
 
+<!-- nav -->
+[Docs](../../../) › [OGS Engine](../../) › [Agent AI](../) › How-to
+
 > *Task-oriented.* Recipes for backend and front-end tasks.
 
 ## Planned guides *(stubs — to be written)*
@@ -10,3 +13,8 @@
 - [ ] **Deploy the Lambda backend** via the Serverless Framework.
 
 > Template: *Goal → Prerequisites → Steps → Verify → Troubleshooting.*
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 How-to · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Agent AI](../) · [Docs Hub](../../../)

@@ -1,5 +1,8 @@
 # Royale IQ — Tutorials
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Royale IQ](../) › Tutorials
+
 > *Learning-oriented.* Guided lessons for players using Royale IQ.
 
 ## Planned tutorials *(stubs — to be written)*
@@ -9,3 +12,8 @@
 > For running/building the app as a developer, see
 > [engine/agent-ai/tutorials](../../../engine/agent-ai/tutorials/).
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
+
+---
+
+📚 Tutorials · 🔧 [How-to](../how-to/) · 📖 [Reference](../reference/) · 💡 [Explanation](../explanation/)
+↑ [Royale IQ](../) · [Docs Hub](../../../)

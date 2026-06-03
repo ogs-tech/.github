@@ -1,5 +1,8 @@
 # Brand Architecture — the OGS umbrella
 
+<!-- nav -->
+[Docs](../) › Brand Architecture
+
 > *Understanding-oriented.* This page explains how OGS Tech is structured as a **brand
 > umbrella**, why each brand exists, and where every product and service fits.
 
@@ -86,10 +89,10 @@ The brand umbrella does not map 1:1 to folders on disk. This is the canonical ma
 |---|---|
 | Partners · Engineering | `alephee/` (+ 6 sub-services) |
 | Partners · Support | `noordhen/` |
-| Studio · Press (OSS) / Engine · Press | `internal/cloud-press-cli` (Cloud Press CLI) |
-| Studio · Press (Cloud) | `internal/cloud-press-cloud` |
+| Studio · Press (OSS) / Engine · Press | `internal/studio-press-cli` (Studio Press CLI) |
+| Studio · Press (Cloud) | `internal/studio-press-cloud` |
 | Studio · Royale IQ / Engine · Agent AI | `internal/royale-agent-ai-app` |
-| Engine · Superset AI | `internal/sde-superset-ai-app` (SDE Superset AI App) + `internal/company-superset-ai-app` (Company Superset AI App) |
+| Engine · Superset AI | `internal/superset-ai-app` (Superset AI App) |
 
 > **Why Engine vs Studio for the same repo?** A single codebase can appear under both brands.
 > Engine documents *how it is built* (technical reference); Studio documents *how it is packaged
@@ -100,3 +103,7 @@ Legacy and archived projects (`_legacy/`) are intentionally **not** documented h
 ---
 
 See also: [How it connects](how-it-connects.md) · [Glossary](glossary.md)
+
+---
+
+↑ [Docs Hub](../)

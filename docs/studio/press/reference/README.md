@@ -1,16 +1,19 @@
 # OGS Studio Press — Reference
 
-> *Information-oriented.* The three doors and the Cloud product (`cloud-press-cloud`).
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Press](../) › Reference
+
+> *Information-oriented.* The three doors and the Cloud product (`studio-press-cloud`).
 
 ## The doors
 
 | Door | Repo / folder | Model | Status |
 |---|---|---|---|
-| Open Source | `internal/cloud-press-cli` (NIS) | free, self-host | Discovery |
-| Cloud | `internal/cloud-press-cloud` | managed, paid | Discovery |
+| Open Source | `internal/studio-press-cli` (NIS) | free, self-host | Discovery |
+| Cloud | `internal/studio-press-cloud` | managed, paid | Discovery |
 | Co. | — (service offering) | done-for-you | see [Studio Co.](../../co/) |
 
-## Cloud — `cloud-press-cloud` (Next in Site Cloud)
+## Cloud — `studio-press-cloud` (Next in Site Cloud)
 
 Multi-tenant SaaS for small Brazilian digital agencies to host and manage **5–50 client sites**,
 with consolidated billing, a portfolio dashboard, and AWS-managed deployments.
@@ -28,5 +31,10 @@ The self-host door is the `@nis/create` scaffolder. Its technical reference live
 
 ## Source files
 
-- `internal/cloud-press-cloud/README.md`, PRD
-- `internal/cloud-press-cli/` (engine)
+- `internal/studio-press-cloud/README.md`, PRD
+- `internal/studio-press-cli/` (engine)
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Press](../) · [Docs Hub](../../../)

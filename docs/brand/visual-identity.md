@@ -1,5 +1,8 @@
 # Visual Identity — brand reference
 
+<!-- nav -->
+[Docs](../) › [Brand](README.md) › Visual Identity
+
 > *Information-oriented.* The exact specifications of the OGS Tech mark: construction,
 > color, typography, and usage rules. Source: **Brand Manual**, V1.0 · 2026.
 > The logo SVGs live in [`assets/logo/`](assets/logo/). Seal and stamp assets are kept out of
@@ -142,3 +145,7 @@ To protect recognition, never:
 ---
 
 See also: [Company](company.md) · [Brand Architecture](../explanation/brand-architecture.md)
+
+---
+
+↑ [Brand](README.md) · [Docs Hub](../)

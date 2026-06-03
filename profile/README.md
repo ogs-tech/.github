@@ -40,9 +40,8 @@ Three brands, one umbrella.
 
 | Project | Description |
 |---|---|
-| [**Cloud Press CLI**](https://github.com/ogs-tech/cloud-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
-| [**Company Superset AI App**](https://github.com/ogs-tech/company-superset-ai-app) | Superset AI — centralize AI context (skills, references, agent profiles) for engineering teams |
-| [**SDE Superset AI App**](https://github.com/ogs-tech/sde-superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
+| [**Studio Press CLI**](https://github.com/ogs-tech/studio-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
+| [**Superset AI App**](https://github.com/ogs-tech/superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
 
 ➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 

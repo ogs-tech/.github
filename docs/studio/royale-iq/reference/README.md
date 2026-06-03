@@ -1,5 +1,8 @@
 # Royale IQ — Reference
 
+<!-- nav -->
+[Docs](../../../) › [OGS Studio](../../) › [Royale IQ](../) › Reference
+
 > *Information-oriented.* Product facts and positioning. (Technical reference → [engine/agent-ai](../../../engine/agent-ai/reference/).)
 
 ## Product
@@ -23,3 +26,8 @@
 
 - Technical reference (monorepo, stacks, commands): [engine/agent-ai/reference](../../../engine/agent-ai/reference/)
 - In-repo docs: `internal/royale-agent-ai-app/.specify/docs/`
+
+---
+
+📚 [Tutorials](../tutorials/) · 🔧 [How-to](../how-to/) · 📖 Reference · 💡 [Explanation](../explanation/)
+↑ [Royale IQ](../) · [Docs Hub](../../../)
