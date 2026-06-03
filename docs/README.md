@@ -1,8 +1,10 @@
 # OGS Tech — Documentation Hub
 
+**English** · [Português](README.pt-BR.md)
+
 > **Technology that takes your business further.** · *Future Ready.*
 
-This is the organization-wide documentation hub for **OGS Tech** (Odenir Gomes Soluções).
+This is the organization-wide documentation hub for **OGS Tech** (Odenir Gomes Solutions).
 It is organized around the **brand umbrella** — how the business packages, sells, and
 operates — and follows the [Diátaxis](https://diataxis.fr) framework within each product.
 
@@ -16,7 +18,7 @@ operates — and follows the [Diátaxis](https://diataxis.fr) framework within e
 ## The umbrella at a glance
 
 ```
-OGS Tech (Odenir Gomes Soluções)
+OGS Tech (Odenir Gomes Solutions)
 │
 ├── OGS Partners ........... premium · bespoke · high-margin · useogs.com/partners
 │     ├── Engineering ...... Alephee
@@ -95,7 +97,7 @@ Day-to-day planning runs on **Trello**. Two boards mirror the brand umbrella:
 
 ## Conventions for contributors
 
-- **Language:** English. (The public org profile may stay bilingual.)
+- **Language:** English.
 - **One home per codebase:** a repo is documented once under its primary brand. Engine holds
   the *technical* reference; Studio holds the *product / go-to-market* framing and cross-links.
 - **Link, don't duplicate:** if a repo already has good docs, link to them from `reference/`.
@@ -103,5 +105,5 @@ Day-to-day planning runs on **Trello**. Two boards mirror the brand umbrella:
 
 ---
 
-*Odenir Gomes Soluções (OGS) · CNPJ 54.705.657/0001-83 · São Paulo/SP · founded 2024-04-12*
+*Odenir Gomes Solutions (OGS) · CNPJ 54.705.657/0001-83 · São Paulo/SP · founded 2024-04-12*
 *[ogsolucoes.com.br](https://ogsolucoes.com.br)*

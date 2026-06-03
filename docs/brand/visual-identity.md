@@ -1,15 +1,15 @@
 # Visual Identity — brand reference
 
 > *Information-oriented.* The exact specifications of the OGS Tech mark: construction,
-> color, typography, and usage rules. Source: **Brand Manual** (*Manual de Marca*), V1.0 · 2026.
-> The logo SVGs live in [`assets/marca/`](assets/marca/). Seal and stamp assets are kept out of
+> color, typography, and usage rules. Source: **Brand Manual**, V1.0 · 2026.
+> The logo SVGs live in [`assets/logo/`](assets/logo/). Seal and stamp assets are kept out of
 > this public repo (they authenticate official material).
 
 For the *why* behind the mark, see [Company](company.md).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/marca/mark-dark.svg">
-  <img alt="OGS Tech mark" src="assets/marca/mark-primario.svg" width="140" align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo/logo-dark.svg">
+  <img alt="OGS Tech mark" src="assets/logo/logo-primary.svg" width="140" align="right">
 </picture>
 
 ---
@@ -27,7 +27,7 @@ The symbol has two elements:
 | Part | Role |
 |---|---|
 | **Wordmark** | `OGS` — Space Grotesk · 600 · letter-spacing 0.04em |
-| **Tagline** | `Tecnologia · Brasil` — JetBrains Mono · 400 · letter-spacing 0.20em · uppercase |
+| **Tagline** | `Technology · Brazil` — JetBrains Mono · 400 · letter-spacing 0.20em · uppercase |
 
 ---
 
@@ -72,15 +72,15 @@ Recommended sizes: 180 / 120 / 80 / 48 / 32 / 24 px.
 ## Color
 
 Six-token palette. Green, amber, and blue are a modern reinterpretation of the Brazilian flag —
-more sophisticated and fit for a tech context. Token names are canonical (kept as in the manual).
+more sophisticated and fit for a tech context.
 
 | Token | Role | HEX | RGB |
 |---|---|---|---|
 | **Ink** | Primary / text | `#142036` | 20 32 54 |
 | **Cream** | Light surface | `#F7F4EE` | 247 244 238 |
-| **Verde** | Emerald arc | `#119350` | 17 147 80 |
-| **Âmbar** | Amber arc / dark accent | `#D9A12C` | 217 161 44 |
-| **Azul** | Blue arc / light accent | `#3D5CC2` | 61 92 194 |
+| **Green** | Emerald arc | `#119350` | 17 147 80 |
+| **Amber** | Amber arc / dark accent | `#D9A12C` | 217 161 44 |
+| **Blue** | Blue arc / light accent | `#3D5CC2` | 61 92 194 |
 | **Slate** | Secondary text | `#7A7E89` | 122 126 137 |
 
 ---
@@ -92,11 +92,11 @@ Two families compose the system.
 | Family | Use | Detail |
 |---|---|---|
 | **Space Grotesk** | wordmark & body text | weights 400 / 500 / 600 / 700; geometric, modern, technical personality |
-| **JetBrains Mono** | technical details & uppercase taglines | weight 400; e.g. `TECNOLOGIA · BRASIL` |
+| **JetBrains Mono** | technical details & uppercase taglines | weight 400; e.g. `TECHNOLOGY · BRAZIL` |
 
 ---
 
-## Official seal (*Selo Oficial*)
+## Official seal
 
 A clean vector insignia attesting OGS Tech provenance: the tricolor reduced to two lateral dots
 (green + blue), the central globe without rings, and mono typography around it. Applied to official
@@ -104,8 +104,7 @@ materials, proposals, packaging, and digital identity.
 
 | Variant | Use |
 |---|---|
-| **PT · Primary** | standard on all Brazilian material |
-| **EN · Export** | international decks, export context |
+| **Primary** | standard on all material |
 | **Dark · Ink background** | dark surfaces |
 
 | Element | Spec |
@@ -117,7 +116,7 @@ materials, proposals, packaging, and digital identity.
 
 ---
 
-## Stamp (*Carimbo*)
+## Stamp
 
 The physical object — single-ink pressed on paper, with the irregularity of a manual application.
 Used to authenticate contracts, receipts, proposals, and correspondence.

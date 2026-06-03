@@ -1,5 +1,7 @@
 # About OGS Tech
 
+**English** · [Português](README.pt-BR.md)
+
 ## Mission
 
 Technology that takes your business further.

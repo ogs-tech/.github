@@ -1,15 +1,17 @@
 <div align="center">
 
+**English** · [Português](README.pt-BR.md)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../docs/brand/assets/marca/mark-dark.svg">
-  <img alt="OGS Tech" src="../docs/brand/assets/marca/mark-primario.svg" width="120">
+  <source media="(prefers-color-scheme: dark)" srcset="../docs/brand/assets/logo/logo-dark.svg">
+  <img alt="OGS Tech" src="../docs/brand/assets/logo/logo-primary.svg" width="120">
 </picture>
 
 # OGS Tech
 
 **Technology that takes your business further.**
 
-`Seu negócio. Além.` · *Future Ready.*
+`Your business. Further.` · *Future Ready.*
 
 We build SaaS, artificial intelligence, and open source solutions to help companies grow with real technology.
 
