@@ -17,8 +17,10 @@
 | **Alephee** | Marketplace integration platform; the Engineering partner under OGS Partners. |
 | **Noordhen** | Custom operations platform for Noordhen Brasil; the Support partner under OGS Partners. |
 | **Diátaxis** | Documentation framework with four quadrants: Tutorials, How-to, Reference, Explanation. |
+| **Brand Manual** | *Manual de Marca*, V1.0 · 2026 — the source for the brand identity. See [Brand](../brand/). |
+| **Ring (tricolor)** | The three arcs around the globe — green (reach), amber (presence), blue (trust). |
 | **NIS / Next in Site** | Product name for the Press open-source scaffolder (`@nis/create`). |
 | **Skillforge** | Product name of `sde-superset-ai-app` (single-developer Superset AI). |
 | **Specfy** | Product name of `company-superset-ai-app` (team Superset AI). |
 
-See also: [Brand Architecture](brand-architecture.md) · [How it connects](how-it-connects.md)
+See also: [Brand Architecture](brand-architecture.md) · [How it connects](how-it-connects.md) · [Brand identity](../brand/)

@@ -35,6 +35,7 @@ OGS Tech (Odenir Gomes Soluções)
 
 See [Brand Architecture](explanation/brand-architecture.md) for the full picture and
 [How it connects](explanation/how-it-connects.md) for the flow between brands.
+For the brand *identity* — mission, values, logo, color, typography — see [Brand](brand/).
 
 ---
 
@@ -75,6 +76,20 @@ Each product folder uses the four Diátaxis quadrants:
 
 > In this first pass, **Reference** and **Explanation** are written from the real
 > repositories; **Tutorials** and **How-to** are guided stubs ready to be filled.
+
+---
+
+## Planning & boards
+
+Day-to-day planning runs on **Trello**. Two boards mirror the brand umbrella:
+
+| Board | Scope |
+|---|---|
+| [OGS Tech HQ](https://trello.com/b/JpvCIoWc/ogs-tech-hq) | Organization-wide — brands, GTM, operations |
+| [OGS Tech Engine](https://trello.com/b/3lPid3OR/ogs-tech-engine) | The machine room — engineering & product execution |
+
+> Access is restricted to the OGS team. These boards are the source of truth for *work in
+> progress*; this hub documents the *stable* picture.
 
 ---
 

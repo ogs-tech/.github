@@ -22,6 +22,7 @@ This is the **OGS Tech** GitHub organization's special `.github` repository. It 
 `docs/` is the organization-wide documentation, organized by the **brand umbrella**, not by folder:
 
 - **`docs/explanation/`** — the umbrella itself: [`brand-architecture.md`](docs/explanation/brand-architecture.md), `how-it-connects.md`, `glossary.md`
+- **`docs/brand/`** — brand identity from the Brand Manual: `company.md` (mission/vision/values), `visual-identity.md` (logo, color, type, seal)
 - **`docs/partners/`** — OGS Partners (Alephee, Noordhen)
 - **`docs/studio/`** — OGS Studio (Press, Co., Royale IQ)
 - **`docs/engine/`** — OGS Engine (Press CMS core, Agent AI, Superset AI)
