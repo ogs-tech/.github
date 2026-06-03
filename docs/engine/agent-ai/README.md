@@ -13,19 +13,16 @@ and deck-analysis app combining a serverless AI backend with a mobile-first fron
 - **Productized as:** [Royale IQ](../../studio/royale-iq/) (Studio · influencers niche, pro bono)
 - **Status:** Active development
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Run the app end to end |
-| 🔧 [How-to guides](how-to/) | Backend/front-end dev tasks |
-| 📖 [Reference](reference/) | Monorepo layout, stacks, commands |
-| 💡 [Explanation](explanation/) | Serverless + LangGraph + mobile architecture |
+Agent AI's technical docs live in its own repo — this hub only frames it in the OGS umbrella, it
+does not duplicate them.
 
-> Product framing (positioning, audience) lives in [studio/royale-iq](../../studio/royale-iq/).
-> This Engine page is the *technical* home.
+- **Repository:** [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app) — monorepo layout, stacks, commands, architecture
+- **Product framing** (positioning, audience): [studio/royale-iq](../../studio/royale-iq/)
+
+See [Brand Architecture](../../explanation/brand-architecture.md) for how Engine feeds the umbrella.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Engine](../) · [Docs Hub](../../)

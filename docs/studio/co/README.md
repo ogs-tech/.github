@@ -18,16 +18,13 @@ it for them. It is the **Co.** door of the Press, and the primary revenue segmen
 | **Empresas** *(primary)* | Brazilian SMBs | the main revenue segment |
 | **Influencers** *(niche)* | creators treated as a company | includes [Royale IQ](../royale-iq/) |
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Onboarding walkthroughs |
-| 🔧 [How-to guides](how-to/) | Service delivery recipes |
-| 📖 [Reference](reference/) | Service catalog, SLAs *(to define)* |
-| 💡 [Explanation](explanation/) | Why done-for-you, how it uses the Press |
+Co. is a service offering, not a codebase — it operates existing products (chiefly the
+[Press](../press/)). There is no dedicated repo; its delivery playbooks are internal.
+
+See [Brand Architecture](../../explanation/brand-architecture.md) for how Co. fits the umbrella.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Studio](../) · [Docs Hub](../../)

@@ -43,6 +43,7 @@ Three brands, one umbrella.
 | [**Studio Press CLI**](https://github.com/ogs-tech/studio-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
 | [**Superset AI App**](https://github.com/ogs-tech/superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
 
+📚 Documentation hub: [all products, organized by brand](https://github.com/ogs-tech/.github/blob/main/docs/)
 ➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
 
 ---

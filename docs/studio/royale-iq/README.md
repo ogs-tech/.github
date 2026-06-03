@@ -12,19 +12,16 @@ app that retrieves player profiles and gives AI-assisted deck analysis and coach
 - **Engine:** [Agent AI](../../engine/agent-ai/) — `internal/royale-agent-ai-app`
 - **Repository:** [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app)
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Use Royale IQ as a player |
-| 🔧 [How-to guides](how-to/) | Specific player tasks |
-| 📖 [Reference](reference/) | Features and positioning |
-| 💡 [Explanation](explanation/) | Why pro bono, why the influencers niche |
+Royale IQ's technical docs live in the engine repo — this hub only frames it in the OGS umbrella,
+it does not duplicate them.
 
-> Technical reference (stacks, commands, architecture) lives in
-> [engine/agent-ai](../../engine/agent-ai/). This page is the *product* home.
+- **Repository:** [`ogs-tech/royale-agent-ai-app`](https://github.com/ogs-tech/royale-agent-ai-app) — stacks, commands, architecture
+- **Engine framing:** [engine/agent-ai](../../engine/agent-ai/)
+
+See [Brand Architecture](../../explanation/brand-architecture.md) for how Studio packages the engine.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Studio](../) · [Docs Hub](../../)

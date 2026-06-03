@@ -12,14 +12,12 @@ instructions) as Markdown + YAML and syncs them to AI coding assistants.
 - **Brand:** OGS Engine · internal tool
 - **Repository:** [`ogs-tech/superset-ai-app`](https://github.com/ogs-tech/superset-ai-app) · folder `internal/superset-ai-app`
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Set up and sync your AI artifacts |
-| 🔧 [How-to guides](how-to/) | Add a skill, export to an assistant |
-| 📖 [Reference](reference/) | App, stack, commands |
-| 💡 [Explanation](explanation/) | Local-first, Markdown+YAML, why it exists |
+Superset AI's technical docs live in its own repo — this hub only frames it in the OGS umbrella,
+it does not duplicate them.
+
+- **Repository:** [`ogs-tech/superset-ai-app`](https://github.com/ogs-tech/superset-ai-app) — app, stack, commands, why it exists
 
 ## At a glance
 
@@ -29,5 +27,4 @@ instructions) as Markdown + YAML and syncs them to AI coding assistants.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Engine](../) · [Docs Hub](../../)

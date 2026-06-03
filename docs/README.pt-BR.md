@@ -5,13 +5,14 @@
 > **Tecnologia que leva o seu negócio além.** · *Future Ready.*
 
 Este é o hub de documentação de toda a organização **OGS Tech** (Odenir Gomes Solutions).
-Ele é organizado em torno do **guarda-chuva de marca** — como o negócio empacota, vende e
-opera — e segue o framework [Diátaxis](https://diataxis.fr) dentro de cada produto.
+Ele é organizado em torno do **guarda-chuva de marca** — como o negócio empacota, vende e opera.
+A documentação detalhada de cada produto vive no seu repositório; este hub enquadra e aponta.
 
 - **Marca em primeiro lugar:** os docs são agrupados por marca (Partners, Studio, Engine), não por pasta.
-- **Diátaxis por dentro:** todo produto tem *Tutoriais*, *Guias how-to*, *Referência* e *Explicação*.
-- **Hub, não silo:** este hub guarda a visão guarda-chuva e a referência por produto. Docs profundos,
-  próximos ao código, continuam vivendo em cada repositório — o hub **aponta** para eles.
+- **Aponte, não duplique:** os docs de produto (tutoriais, how-to, referência, arquitetura) vivem
+  em cada repo. Este hub enquadra cada produto e aponta para eles — **não** os copia.
+- **Hub, não silo:** o que vive aqui é genuinamente org-wide — o guarda-chuva de marca, a
+  explicação entre marcas e uma página de enquadramento por produto.
 
 ---
 
@@ -52,32 +53,17 @@ Para a *identidade* de marca — missão, valores, logo, cor, tipografia — vej
 ### 🏭 [OGS Studio](studio/) — *escalável, empacotado*
 | Produto | O que é | Docs |
 |---|---|---|
-| [Press](studio/press/) | Plataforma de sites de conteúdo — OSS (self-host) e Cloud (agências) | [referência](studio/press/reference/) |
-| [Co.](studio/co/) | Serviços de TI done-for-you para PMEs | [explicação](studio/co/explanation/) |
-| [Royale IQ](studio/royale-iq/) | Coach com IA para jogadores de Clash Royale (pro bono) | [referência](studio/royale-iq/reference/) |
+| [Press](studio/press/) | Plataforma de sites de conteúdo — três portas sobre um engine | [produto](studio/press/) |
+| [Press Cloud](studio/press-cloud/) | Press SaaS gerenciado e multi-tenant (a porta Cloud) | [produto](studio/press-cloud/) |
+| [Co.](studio/co/) | Serviços de TI done-for-you para PMEs | [produto](studio/co/) |
+| [Royale IQ](studio/royale-iq/) | Coach com IA para jogadores de Clash Royale (pro bono) | [produto](studio/royale-iq/) |
 
 ### ⚙️ [OGS Engine](engine/) — *a sala de máquinas*
-| Engine | O que é | Docs |
+| Engine | O que é | Repo |
 |---|---|---|
-| [Press](engine/press/) | Core do CMS (scaffolder `@nis/create`) | [referência](engine/press/reference/) |
-| [Agent AI](engine/agent-ai/) | Core de IA que move o Royale IQ | [referência](engine/agent-ai/reference/) |
-| [Superset AI](engine/superset-ai/) | Apps desktop internos de tooling do Claude | [referência](engine/superset-ai/reference/) |
-
----
-
-## Entendendo o framework
-
-Cada pasta de produto usa os quatro quadrantes Diátaxis:
-
-| Quadrante | Orientação | Responde |
-|---|---|---|
-| 📚 **Tutoriais** | aprendizado | "Me ensine, passo a passo" |
-| 🔧 **Guias how-to** | tarefas | "Como faço X?" |
-| 📖 **Referência** | informação | "Qual é a API / comando / config exata?" |
-| 💡 **Explicação** | compreensão | "Por que foi construído assim?" |
-
-> Nesta primeira leva, **Referência** e **Explicação** são escritas a partir dos repositórios
-> reais; **Tutoriais** e **How-to** são stubs guiados, prontos para preencher.
+| [Press](engine/press/) | Core do CMS (scaffolder `@nis/create`) | [studio-press-cli ↗](https://github.com/ogs-tech/studio-press-cli) |
+| [Agent AI](engine/agent-ai/) | Core de IA que move o Royale IQ | [royale-agent-ai-app ↗](https://github.com/ogs-tech/royale-agent-ai-app) |
+| [Superset AI](engine/superset-ai/) | Apps desktop internos de tooling do Claude | [superset-ai-app ↗](https://github.com/ogs-tech/superset-ai-app) |
 
 ---
 
@@ -99,8 +85,9 @@ O planejamento do dia a dia roda no **Trello**. Dois quadros espelham o guarda-c
 
 - **Idioma:** inglês. (As versões `README.pt-BR.md` traduzem os hubs principais.)
 - **Uma casa por codebase:** um repo é documentado uma vez sob sua marca principal. A Engine guarda
-  a referência *técnica*; o Studio guarda o enquadramento de *produto / go-to-market* e faz cross-link.
-- **Aponte, não duplique:** se um repo já tem boa documentação, aponte para ela a partir de `reference/`.
+  o enquadramento *técnico*; o Studio guarda o de *produto / go-to-market* e faz cross-link.
+- **Aponte, não duplique:** os docs detalhados vivem em cada repo — a página de produto aqui
+  aponta para eles, não os copia.
 - **Só Markdown:** sem build, sem dependências (veja [CLAUDE.md](../CLAUDE.md)).
 
 ---

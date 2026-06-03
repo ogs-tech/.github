@@ -27,14 +27,21 @@ This is the **OGS Tech** GitHub organization's special `.github` repository. It 
 - **`docs/studio/`** — OGS Studio (Press, Co., Royale IQ)
 - **`docs/engine/`** — OGS Engine (Press CMS core, Agent AI, Superset AI)
 
-Each product has the four [Diátaxis](https://diataxis.fr) quadrants (`tutorials/`, `how-to/`,
-`reference/`, `explanation/`). Conventions:
+Each product is a **single `README.md`** that frames the product in the umbrella and links out to
+its repo. The hub deliberately does **not** carry per-product Diátaxis quadrants
+(`tutorials/`, `how-to/`, `reference/`, `explanation/`) — that detail lives in each project's repo
+and would only be duplicated here. The four quadrants live inside the repos, not in this hub.
+Conventions:
 
-- **Language: English.**
-- **One home per codebase:** Engine holds *technical* reference; Studio holds *product / GTM* framing; they cross-link instead of duplicating.
-- **Link, don't duplicate:** if a repo already has docs (e.g. `alephee/ui-core/docs/`, `superset-ai-app/docs/`), link to them from `reference/`.
+- **Language: English.** (`README.pt-BR.md` translates the main hub pages.)
+- **One home per codebase:** Engine holds the *technical* framing; Studio holds the *product / GTM* framing; they cross-link instead of duplicating.
+- **Link, don't duplicate:** detailed docs (tutorials, how-to, reference, architecture) live in
+  each repo (e.g. `alephee/docs/`, `noordhen/docs/`, `studio-press-cli`). The product page links
+  to them — it does not copy them.
+- **What does live here:** `docs/brand/` (identity) and `docs/explanation/` (the cross-brand
+  umbrella) — both genuinely org-wide and not duplicated in any repo.
 - **`_legacy/` is intentionally not documented.**
-- When adding a new project, place it under its brand and follow the Diátaxis quadrant structure.
+- When adding a new project, place it under its brand as a single framing `README.md` that links to its repo.
 
 ## Guidelines
 
