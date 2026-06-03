@@ -2,9 +2,15 @@
 
 > *Information-oriented.* The exact specifications of the OGS Tech mark: construction,
 > color, typography, and usage rules. Source: **Brand Manual** (*Manual de Marca*), V1.0 · 2026.
-> Production SVGs live in the brandbook's `/svg/` folder.
+> The logo SVGs live in [`assets/marca/`](assets/marca/). Seal and stamp assets are kept out of
+> this public repo (they authenticate official material).
 
 For the *why* behind the mark, see [Company](company.md).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/marca/mark-dark.svg">
+  <img alt="OGS Tech mark" src="assets/marca/mark-primario.svg" width="140" align="right">
+</picture>
 
 ---
 

@@ -1,8 +1,19 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../docs/brand/assets/marca/mark-dark.svg">
+  <img alt="OGS Tech" src="../docs/brand/assets/marca/mark-primario.svg" width="120">
+</picture>
+
 # OGS Tech
 
 **Technology that takes your business further.**
 
+`Seu negócio. Além.` · *Future Ready.*
+
 We build SaaS, artificial intelligence, and open source solutions to help companies grow with real technology.
+
+</div>
 
 ---
 

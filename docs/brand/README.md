@@ -1,5 +1,10 @@
 # OGS Brand
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/marca/mark-dark.svg">
+  <img alt="OGS Tech mark" src="assets/marca/mark-primario.svg" width="96" align="right">
+</picture>
+
 > **Seu negócio. Além.** · *Future Ready.* — the OGS Tech brand identity.
 
 This section holds the **brand identity** of OGS Tech (Odenir Gomes Soluções), distilled from the
