@@ -20,19 +20,17 @@ through three doors depending on who is using it.
 | **Cloud** | agencies | managed, paid | [Studio Press Cloud](../press-cloud/) |
 | **Co.** | SMBs | done-for-you | operated by [Studio Co.](../co/) |
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Get started with each door |
-| 🔧 [How-to guides](how-to/) | Onboard an agency, host a site… |
-| 📖 [Reference](reference/) | The three doors at a glance |
-| 💡 [Explanation](explanation/) | Why three doors over one engine |
+This page is the *product / go-to-market* framing. The technical docs live in the repos — this
+hub does not duplicate them.
 
-> Technical reference for the engine itself lives in [engine/press](../../engine/press/).
-> This page is the *product / go-to-market* home.
+- **Open Source door** (engine): [engine/press](../../engine/press/) → [`ogs-tech/studio-press-cli`](https://github.com/ogs-tech/studio-press-cli)
+- **Cloud door** (product): [Studio Press Cloud](../press-cloud/) → [`ogs-tech/studio-press-cloud`](https://github.com/ogs-tech/studio-press-cloud)
+- **Co. door** (service): [Studio Co.](../co/)
+
+See [Brand Architecture](../../explanation/brand-architecture.md) for how the three doors fit the umbrella.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Studio](../) · [Docs Hub](../../)

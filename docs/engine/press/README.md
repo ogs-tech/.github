@@ -15,19 +15,17 @@ blocks wired end to end).
 - **Productized as:** [OGS Studio Press](../../studio/press/) (three doors: OSS / Cloud / Co.)
 - **Status:** Discovery — PRD and `ARCH.md` in place
 
-## Documentation (Diátaxis)
+## Documentation
 
-| | |
-|---|---|
-| 📚 [Tutorials](tutorials/) | Scaffold your first site |
-| 🔧 [How-to guides](how-to/) | Specific scaffolding/customization tasks |
-| 📖 [Reference](reference/) | CLI, generated structure, pinned versions |
-| 💡 [Explanation](explanation/) | Why a scaffolder, the engine→product path |
+Press's technical docs live in its own repo — this hub only frames it in the OGS umbrella, it
+does not duplicate them.
 
-> Studio framing (how it's sold through three doors) lives in [studio/press](../../studio/press/).
-> This Engine page is the *technical* home.
+- **CLI repo:** [`ogs-tech/studio-press-cli`](https://github.com/ogs-tech/studio-press-cli) — README, PRD, `ARCH.md`
+- **Cloud repo:** [`ogs-tech/studio-press-cloud`](https://github.com/ogs-tech/studio-press-cloud) *(discovery)*
+- **Studio framing** (how it's sold through three doors): [studio/press](../../studio/press/)
+
+See [Brand Architecture](../../explanation/brand-architecture.md) for how Engine feeds the umbrella.
 
 ---
 
-📚 [Tutorials](tutorials/) · 🔧 [How-to](how-to/) · 📖 [Reference](reference/) · 💡 [Explanation](explanation/)
 ↑ [OGS Engine](../) · [Docs Hub](../../)

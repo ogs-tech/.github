@@ -5,13 +5,14 @@
 > **Technology that takes your business further.** · *Future Ready.*
 
 This is the organization-wide documentation hub for **OGS Tech** (Odenir Gomes Solutions).
-It is organized around the **brand umbrella** — how the business packages, sells, and
-operates — and follows the [Diátaxis](https://diataxis.fr) framework within each product.
+It is organized around the **brand umbrella** — how the business packages, sells, and operates.
+Detailed product docs live in each repository; this hub frames them and links out.
 
 - **Brand-first:** docs are grouped by brand (Partners, Studio, Engine), not by folder.
-- **Diátaxis-within:** every product has *Tutorials*, *How-to guides*, *Reference*, and *Explanation*.
-- **Hub, not silo:** this hub holds the umbrella view and per-product reference. Deep,
-  code-adjacent docs continue to live in each repository — the hub **links** to them.
+- **Link, don't duplicate:** product docs (tutorials, how-to, reference, architecture) live in
+  each repo. This hub frames each product and links out — it does **not** copy them.
+- **Hub, not silo:** what lives here is genuinely org-wide — the brand umbrella, the
+  cross-brand explanation, and a one-page frame per product.
 
 ---
 
@@ -52,33 +53,17 @@ For the brand *identity* — mission, values, logo, color, typography — see [B
 ### 🏭 [OGS Studio](studio/) — *scalable, packaged*
 | Product | What it is | Docs |
 |---|---|---|
-| [Press](studio/press/) | Content-site platform — three doors over one engine | [reference](studio/press/reference/) |
+| [Press](studio/press/) | Content-site platform — three doors over one engine | [product](studio/press/) |
 | [Press Cloud](studio/press-cloud/) | Managed multi-tenant Press SaaS (the Cloud door) | [product](studio/press-cloud/) |
-| [Co.](studio/co/) | Done-for-you IT services for SMBs | [explanation](studio/co/explanation/) |
-| [Royale IQ](studio/royale-iq/) | AI coach for Clash Royale players (pro bono) | [reference](studio/royale-iq/reference/) |
+| [Co.](studio/co/) | Done-for-you IT services for SMBs | [product](studio/co/) |
+| [Royale IQ](studio/royale-iq/) | AI coach for Clash Royale players (pro bono) | [product](studio/royale-iq/) |
 
 ### ⚙️ [OGS Engine](engine/) — *the machine room*
-| Engine | What it is | Docs |
+| Engine | What it is | Repo |
 |---|---|---|
-| [Press](engine/press/) | CMS core (`@nis/create` scaffolder) | [reference](engine/press/reference/) |
-| [Agent AI](engine/agent-ai/) | AI core powering Royale IQ | [reference](engine/agent-ai/reference/) |
-| [Superset AI](engine/superset-ai/) | Internal Claude-tooling desktop apps | [reference](engine/superset-ai/reference/) |
-
----
-
-## Understanding the framework
-
-Each product folder uses the four Diátaxis quadrants:
-
-| Quadrant | Orientation | Answers |
-|---|---|---|
-| 📚 **Tutorials** | learning | "Teach me, step by step" |
-| 🔧 **How-to guides** | tasks | "How do I accomplish X?" |
-| 📖 **Reference** | information | "What is the exact API / command / config?" |
-| 💡 **Explanation** | understanding | "Why is it built this way?" |
-
-> In this first pass, **Reference** and **Explanation** are written from the real
-> repositories; **Tutorials** and **How-to** are guided stubs ready to be filled.
+| [Press](engine/press/) | CMS core (`@nis/create` scaffolder) | [studio-press-cli ↗](https://github.com/ogs-tech/studio-press-cli) |
+| [Agent AI](engine/agent-ai/) | AI core powering Royale IQ | [royale-agent-ai-app ↗](https://github.com/ogs-tech/royale-agent-ai-app) |
+| [Superset AI](engine/superset-ai/) | Internal Claude-tooling desktop apps | [superset-ai-app ↗](https://github.com/ogs-tech/superset-ai-app) |
 
 ---
 
@@ -100,8 +85,9 @@ Day-to-day planning runs on **Trello**. Two boards mirror the brand umbrella:
 
 - **Language:** English.
 - **One home per codebase:** a repo is documented once under its primary brand. Engine holds
-  the *technical* reference; Studio holds the *product / go-to-market* framing and cross-links.
-- **Link, don't duplicate:** if a repo already has good docs, link to them from `reference/`.
+  the *technical* framing; Studio holds the *product / go-to-market* framing and cross-links.
+- **Link, don't duplicate:** detailed docs live in each repo — the product page here links to
+  them, it does not copy them.
 - **Markdown only:** no build step, no dependencies (see [CLAUDE.md](../CLAUDE.md)).
 
 ---
