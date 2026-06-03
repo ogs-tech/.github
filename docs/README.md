@@ -46,8 +46,8 @@ For the brand *identity* — mission, values, logo, color, typography — see [B
 ### 🤝 [OGS Partners](partners/) — *premium, bespoke*
 | Product | What it is | Docs |
 |---|---|---|
-| [Alephee](partners/alephee/) | Marketplace integration platform (engineering partner) | [reference](partners/alephee/reference/) |
-| [Noordhen](partners/noordhen/) | Custom operations platform for Noordhen Brasil (support partner) | [reference](partners/noordhen/reference/) |
+| [Alephee](partners/alephee/) | Marketplace integration platform (engineering partner) | [repo docs ↗](https://github.com/ogs-tech/alephee/tree/main/docs) |
+| [Noordhen](partners/noordhen/) | Custom operations platform for Noordhen Brasil (support partner) | [repo docs ↗](https://github.com/ogs-tech/noordhen/tree/main/docs) |
 
 ### 🏭 [OGS Studio](studio/) — *scalable, packaged*
 | Product | What it is | Docs |

@@ -46,8 +46,8 @@ Para a *identidade* de marca — missão, valores, logo, cor, tipografia — vej
 ### 🤝 [OGS Partners](partners/) — *premium, sob medida*
 | Produto | O que é | Docs |
 |---|---|---|
-| [Alephee](partners/alephee/) | Plataforma de integração com marketplaces (parceiro de engenharia) | [referência](partners/alephee/reference/) |
-| [Noordhen](partners/noordhen/) | Plataforma de operações personalizada da Noordhen Brasil (parceiro de suporte) | [referência](partners/noordhen/reference/) |
+| [Alephee](partners/alephee/) | Plataforma de integração com marketplaces (parceiro de engenharia) | [docs do repo ↗](https://github.com/ogs-tech/alephee/tree/main/docs) |
+| [Noordhen](partners/noordhen/) | Plataforma de operações personalizada da Noordhen Brasil (parceiro de suporte) | [docs do repo ↗](https://github.com/ogs-tech/noordhen/tree/main/docs) |
 
 ### 🏭 [OGS Studio](studio/) — *escalável, empacotado*
 | Produto | O que é | Docs |
