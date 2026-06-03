@@ -8,7 +8,7 @@ monorepo for content-driven sites in ≤2 minutes (CMS + front-end + shared type
 blocks wired end to end).
 
 - **Brand:** OGS Engine · product engine
-- **Repositories:** [`ogs-tech/cloud-press-cli`](https://github.com/ogs-tech/cloud-press-cli) · folder `internal/cloud-press-cli` — plus `ogs-tech/cloud-press-cloud` *(planned)* for the Cloud door
+- **Repositories:** [`ogs-tech/studio-press-cli`](https://github.com/ogs-tech/studio-press-cli) · folder `internal/studio-press-cli` — plus [`ogs-tech/studio-press-cloud`](https://github.com/ogs-tech/studio-press-cloud) *(discovery)* for the Cloud door
 - **Productized as:** [OGS Studio Press](../../studio/press/) (three doors: OSS / Cloud / Co.)
 - **Status:** Discovery — PRD and `ARCH.md` in place
 

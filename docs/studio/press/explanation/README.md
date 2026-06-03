@@ -8,7 +8,7 @@ Developers, agencies, and SMBs all need content sites, but they buy very differe
 
 - **Developers** want control and zero cost → **Open Source**, self-hosted (`@nis/create`).
 - **Agencies** manage many client sites and want the plumbing handled → **Cloud**, a managed
-  multi-tenant platform (`cloud-press-cloud`) with consolidated billing and a portfolio dashboard.
+  multi-tenant platform (`studio-press-cloud`) with consolidated billing and a portfolio dashboard.
 - **SMBs** don't want to touch tooling at all → **Co.**, where [Studio Co.](../../co/) operates the
   Press for them (done-for-you).
 

@@ -26,10 +26,10 @@ dentro de cada produto. Comece por [`docs/README.pt-BR.md`](docs/README.pt-BR.md
 - [noordhen](https://github.com/ogs-tech/noordhen)
 
 ### Internos
-- [cloud-press-cli](https://github.com/ogs-tech/cloud-press-cli)
-- [company-superset-ai-app](https://github.com/ogs-tech/company-superset-ai-app)
+- [studio-press-cli](https://github.com/ogs-tech/studio-press-cli)
+- [studio-press-cloud](https://github.com/ogs-tech/studio-press-cloud)
 - [royale-agent-ai-app](https://github.com/ogs-tech/royale-agent-ai-app)
-- [sde-superset-ai-app](https://github.com/ogs-tech/sde-superset-ai-app)
+- [superset-ai-app](https://github.com/ogs-tech/superset-ai-app)
 
 ## Saiba mais
 

@@ -8,4 +8,4 @@
   (front-end, CMS, shared packages), run it locally, edit a dynamic block.
 
 > Template: *Goal → Prerequisites → Numbered steps with expected output → What you learned.*
-> Source the exact stack and commands from `internal/cloud-press-cli/ARCH.md`.
+> Source the exact stack and commands from `internal/studio-press-cli/ARCH.md`.
