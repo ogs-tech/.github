@@ -52,7 +52,8 @@ For the brand *identity* — mission, values, logo, color, typography — see [B
 ### 🏭 [OGS Studio](studio/) — *scalable, packaged*
 | Product | What it is | Docs |
 |---|---|---|
-| [Press](studio/press/) | Content-site platform — OSS (self-host) and Cloud (agencies) | [reference](studio/press/reference/) |
+| [Press](studio/press/) | Content-site platform — three doors over one engine | [reference](studio/press/reference/) |
+| [Press Cloud](studio/press-cloud/) | Managed multi-tenant Press SaaS (the Cloud door) | [product](studio/press-cloud/) |
 | [Co.](studio/co/) | Done-for-you IT services for SMBs | [explanation](studio/co/explanation/) |
 | [Royale IQ](studio/royale-iq/) | AI coach for Clash Royale players (pro bono) | [reference](studio/royale-iq/reference/) |
 
