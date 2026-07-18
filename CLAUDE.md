@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is the **OGS Tech** GitHub organization's special `.github` repository. It controls the org's public presence on GitHub.
+This is the **OGS tech** GitHub organization's special `.github` repository. It controls the org's public presence on GitHub.
 
-- `profile/README.md` — renders as the organization's public profile on the OGS Tech GitHub org page
+- `profile/README.md` — renders as the organization's public profile on the OGS tech GitHub org page
 - `README.md` — repository-level description
 
 ## Key Files
@@ -22,7 +22,7 @@ This is the **OGS Tech** GitHub organization's special `.github` repository. It 
 `docs/` is the organization-wide documentation, organized by the **brand umbrella**, not by folder:
 
 - **`docs/explanation/`** — the umbrella itself: [`brand-architecture.md`](docs/explanation/brand-architecture.md), `how-it-connects.md`, `glossary.md`
-- **`docs/brand/`** — brand identity from the Brand Manual: `company.md` (mission/vision/values), `visual-identity.md` (logo, color, type, seal)
+- **`docs/brand/`** — brand identity from the Guia de Marca, Ed. 03: `company.md` (mission/vision/values), `visual-identity.md` (logo, color, type)
 - **`docs/partners/`** — OGS Partners (Alephee, Noordhen)
 - **`docs/studio/`** — OGS Studio (Press, Co., Royale IQ)
 - **`docs/engine/`** — OGS Engine (Press CMS core, Agent AI, Superset AI)
@@ -47,7 +47,7 @@ Conventions:
 
 - **Markdown only** — no build steps, no dependencies, no CI pipelines currently
 - Changes to `profile/README.md` are **immediately visible** on the public GitHub org page — review carefully before committing
-- Keep `profile/README.md` concise and aligned with OGS Tech's mission: SaaS, AI/autonomous agents, and open source
+- Keep `profile/README.md` concise and aligned with OGS tech's mission: SaaS, AI/autonomous agents, and open source
 
 ## Roadmap (planned additions)
 

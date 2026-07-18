@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with fi
 
 ## Purpose
 
-This directory contains the **institutional identity content** of OGS Tech — mission, purpose, vision, values, and slogan.
+This directory contains the **institutional identity content** of OGS tech — mission, purpose, vision, values, and slogan.
 
 `README.md` here serves as a reference document for these brand pillars.
 
@@ -13,10 +13,12 @@ This directory contains the **institutional identity content** of OGS Tech — m
 | Section | Content |
 |---|---|
 | Mission | Technology that takes your business further. |
-| Purpose | We believe quality technology should not be a privilege of large companies. |
-| Vision | To be the largest technology company for small and medium businesses in Brazil. |
+| Purpose | Quality technology shouldn't be a privilege reserved for big companies. |
+| Vision | To become Brazil's largest technology company for small and medium businesses. |
 | Values | We lead with ethics, we grow with people. |
-| Slogan | Your business. Further. Future Ready. |
+| Slogan | Your business. Further. Future-Ready. |
+
+This table mirrors the canonical statements in `docs/brand/company.md` (source: Guia de Marca, Ed. 03) — update both together.
 
 ## Editing Rules
 

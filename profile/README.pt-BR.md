@@ -4,14 +4,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../docs/brand/assets/logo/logo-dark.svg">
-  <img alt="OGS Tech" src="../docs/brand/assets/logo/logo-primary.svg" width="120">
+  <img alt="OGS tech" src="../docs/brand/assets/logo/logo-primary.svg" width="120">
 </picture>
 
-# OGS Tech
+# OGS tech
 
 **Tecnologia que leva o seu negócio além.**
 
-`Seu negócio. Além.` · *Future Ready.*
+`Your business. Further. Future-Ready.`
 
 Construímos soluções de SaaS, inteligência artificial e open source para ajudar empresas a crescer com tecnologia de verdade.
 
@@ -56,7 +56,7 @@ Três marcas, um guarda-chuva.
 
 ---
 
-## Sobre a OGS Tech
+## Sobre a OGS tech
 
 Saiba mais sobre nossa identidade e estrutura:
 
@@ -67,4 +67,4 @@ Saiba mais sobre nossa identidade e estrutura:
 
 ## Contato
 
-Site: [ogsolucoes.com.br](https://ogsolucoes.com.br)
+Site: [useogs.com](https://useogs.com)

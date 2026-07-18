@@ -1,10 +1,10 @@
-# OGS Tech — Documentation Hub
+# OGS tech — Documentation Hub
 
 **English** · [Português](README.pt-BR.md)
 
-> **Technology that takes your business further.** · *Future Ready.*
+> **Technology that takes your business further.** · *Your business. Further. Future-Ready.*
 
-This is the organization-wide documentation hub for **OGS Tech** (Odenir Gomes Solutions).
+This is the organization-wide documentation hub for **OGS tech** (Odenir Gomes Solutions).
 It is organized around the **brand umbrella** — how the business packages, sells, and operates.
 Detailed product docs live in each repository; this hub frames them and links out.
 
@@ -19,7 +19,7 @@ Detailed product docs live in each repository; this hub frames them and links ou
 ## The umbrella at a glance
 
 ```
-OGS Tech (Odenir Gomes Solutions)
+OGS tech (Odenir Gomes Solutions)
 │
 ├── OGS Partners ........... premium · bespoke · high-margin · useogs.com/partners
 │     ├── Engineering ...... Alephee
@@ -93,4 +93,4 @@ Day-to-day planning runs on **Trello**. Two boards mirror the brand umbrella:
 ---
 
 *Odenir Gomes Solutions (OGS) · CNPJ 54.705.657/0001-83 · São Paulo/SP · founded 2024-04-12*
-*[ogsolucoes.com.br](https://ogsolucoes.com.br)*
+*[useogs.com](https://useogs.com)*

@@ -1,4 +1,4 @@
-# Sobre a OGS Tech
+# Sobre a OGS tech
 
 [English](README.md) · **Português**
 
@@ -10,31 +10,33 @@ Tecnologia que leva o seu negócio além.
 
 ## Propósito
 
-Acreditamos que tecnologia de qualidade não deveria ser privilégio de grandes empresas.
+Tecnologia de qualidade não deveria ser privilégio de empresa grande.
 
 ---
 
 ## Visão
 
-Ser a maior empresa de tecnologia para pequenas e médias empresas do Brasil.
+Ser a maior empresa de tecnologia pra pequenas e médias empresas do Brasil.
 
 ---
 
 ## Valores
 
-Lideramos com ética; crescemos com pessoas.
+Lideramos com ética, crescemos com pessoas.
 
 ---
 
 ## Slogan
 
-Seu negócio. Além. · Future Ready.
+Your business. Further. Future-Ready.
+
+> Redação canônica: [Brand → Company](../../docs/brand/company.md) — mantenha as duas em sincronia.
 
 ---
 
 ## Guarda-chuva de Marca
 
-A OGS Tech opera como um **guarda-chuva de marca**: três marcas, uma tecnologia por baixo, cada uma
+A OGS tech opera como um **guarda-chuva de marca**: três marcas, uma tecnologia por baixo, cada uma
 uma forma diferente de ir ao mercado.
 
 | Marca | Papel | Vai ao mercado como |
@@ -49,7 +51,7 @@ uma forma diferente de ir ao mercado.
 
 ## Organograma
 
-O organograma abaixo segue boas práticas comuns: hierarquia clara de cima para baixo, responsabilidades agrupadas por área e uma descrição curta dentro de cada cartão de papel. No estágio atual da OGS Tech, **Odenir Gomes** lidera as áreas de Liderança, Tecnologia e Produto, enquanto **Rosana Pinto** lidera as áreas Comercial e de Operações — com **Marketing** liderado por **Synue Cunioci**.
+O organograma abaixo segue boas práticas comuns: hierarquia clara de cima para baixo, responsabilidades agrupadas por área e uma descrição curta dentro de cada cartão de papel. No estágio atual da OGS tech, **Odenir Gomes** lidera as áreas de Liderança, Tecnologia e Produto, enquanto **Rosana Pinto** lidera as áreas Comercial e de Operações — com **Marketing** liderado por **Synue Cunioci**.
 
 ```mermaid
 %%{init: {"flowchart": {"nodeSpacing": 55, "rankSpacing": 95, "diagramPadding": 28, "useMaxWidth": true}}}%%
@@ -75,12 +77,12 @@ flowchart TB
     OPS --> SUPPORT["Suporte<br/>Chamados, triagem e continuidade do serviço<br/>Rosana Pinto"]
     OPS --> FIN["Financeiro & Administrativo<br/>Fluxo de caixa, documentos e compliance<br/>Rosana Pinto"]
 
-    classDef founder fill:#0f172a,color:#ffffff,stroke:#0f172a,stroke-width:2px;
-    classDef heads fill:#dbeafe,color:#1e3a8a,stroke:#60a5fa,stroke-width:1.5px;
-    classDef tech fill:#dcfce7,color:#166534,stroke:#4ade80,stroke-width:1.5px;
-    classDef product fill:#fae8ff,color:#86198f,stroke:#d946ef,stroke-width:1.5px;
-    classDef growth fill:#fef3c7,color:#92400e,stroke:#f59e0b,stroke-width:1.5px;
-    classDef ops fill:#fee2e2,color:#991b1b,stroke:#f87171,stroke-width:1.5px;
+    classDef founder fill:#14133A,color:#F6F2ED,stroke:#E39C19,stroke-width:2px;
+    classDef heads fill:#DBDFFE,color:#14133A,stroke:#7C81F0,stroke-width:1.5px;
+    classDef tech fill:#E5E0DB,color:#2B2722,stroke:#948E88,stroke-width:1.5px;
+    classDef product fill:#F0F2FE,color:#201F53,stroke:#9CA4F9,stroke-width:1.5px;
+    classDef growth fill:#FCDCB1,color:#704A02,stroke:#BF8107,stroke-width:1.5px;
+    classDef ops fill:#CDC8C3,color:#1C1915,stroke:#756F68,stroke-width:1.5px;
 
     class CEO founder;
     class TECH,PRODUCT,BUSINESS,OPS heads;
@@ -92,7 +94,7 @@ flowchart TB
 
 ## Papéis e Responsabilidades Atuais
 
-> No estágio atual da OGS Tech, os papéis de Liderança, Tecnologia e Produto são ocupados por **Odenir Gomes**, enquanto os papéis Comercial e de Operações são ocupados por **Rosana Pinto** — exceto **Marketing**, liderado por **Synue Cunioci**.
+> No estágio atual da OGS tech, os papéis de Liderança, Tecnologia e Produto são ocupados por **Odenir Gomes**, enquanto os papéis Comercial e de Operações são ocupados por **Rosana Pinto** — exceto **Marketing**, liderado por **Synue Cunioci**.
 
 | Área | Papel | Descrição | Colaborador atual |
 |---|---|---|---|

@@ -1,8 +1,8 @@
-# .github — OGS Tech
+# .github — OGS tech
 
 [English](README.md) · **Português**
 
-Repositório especial da organização [OGS Tech](https://ogsolucoes.com.br) no GitHub.
+Repositório especial da organização [OGS tech](https://useogs.com) no GitHub.
 
 ## Conteúdo
 
@@ -33,7 +33,7 @@ dentro de cada produto. Comece por [`docs/README.pt-BR.md`](docs/README.pt-BR.md
 
 ## Saiba mais
 
-- [Sobre a OGS Tech](profile/about/README.pt-BR.md)
+- [Sobre a OGS tech](profile/about/README.pt-BR.md)
 
 ## Roadmap
 
