@@ -96,7 +96,8 @@ Hard rules:
 
 - **No green in the identity.** Green exists only as the semantic *success* UI state — a
   separate system (success · warning · error · info), never brand identity.
-- **Blue is support, never protagonist.** Indigo leads; amber signs.
+- **No blue in the identity.** Blue was demoted in favor of indigo-violet — it exists only
+  as the semantic *info* UI state. Indigo leads; amber signs.
 - **Amber ≤ ¼** of any composition's area.
 - Amber as *text on light* must use `#704A02` (amber-600), never `#E39C19` (amber-300).
 
