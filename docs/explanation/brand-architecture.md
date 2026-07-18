@@ -3,16 +3,16 @@
 <!-- nav -->
 [Docs](../) › Brand Architecture
 
-> *Understanding-oriented.* This page explains how OGS Tech is structured as a **brand
+> *Understanding-oriented.* This page explains how OGS tech is structured as a **brand
 > umbrella**, why each brand exists, and where every product and service fits.
 
-OGS Tech (legal entity **Odenir Gomes Solutions**, CNPJ 54.705.657/0001-83, São Paulo/SP)
+OGS tech (legal entity **Odenir Gomes Solutions**, CNPJ 54.705.657/0001-83, São Paulo/SP)
 operates three brands under one umbrella. Each brand is a different **way of going to market**
 with the same underlying technology.
 
 ```
-                          OGS Tech · Brazil
-                     "Your business. Further." · Future Ready
+                          OGS tech
+                "Your business. Further. Future-Ready."
                                   │
         ┌─────────────────────────┼─────────────────────────┐
         │                         │                          │

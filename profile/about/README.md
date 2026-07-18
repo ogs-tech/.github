@@ -1,4 +1,4 @@
-# About OGS Tech
+# About OGS tech
 
 **English** · [Português](README.pt-BR.md)
 
@@ -10,13 +10,13 @@ Technology that takes your business further.
 
 ## Purpose
 
-We believe quality technology should not be a privilege of large companies.
+Quality technology shouldn't be a privilege reserved for big companies.
 
 ---
 
 ## Vision
 
-To be the largest technology company for small and medium businesses in Brazil.
+To become Brazil's largest technology company for small and medium businesses.
 
 ---
 
@@ -28,13 +28,15 @@ We lead with ethics, we grow with people.
 
 ## Slogan
 
-Your business. Further. Future Ready.
+Your business. Further. Future-Ready.
+
+> Canonical wording: [Brand → Company](../../docs/brand/company.md) — keep both in sync.
 
 ---
 
 ## Brand Umbrella
 
-OGS Tech operates as a **brand umbrella**: three brands, one underlying technology, each a
+OGS tech operates as a **brand umbrella**: three brands, one underlying technology, each a
 different way of going to market.
 
 | Brand | Role | Goes to market as |
@@ -49,7 +51,7 @@ different way of going to market.
 
 ## Organizational Chart
 
-The chart below follows common organizational chart best practices: a clear top-down hierarchy, grouped responsibilities by area, and a short description inside each role card. At OGS Tech's current stage, **Odenir Gomes** leads the Leadership, Technology, and Product areas, while **Rosana Pinto** leads the Commercial and Operations areas — with **Marketing** led by **Synue Cunioci**.
+The chart below follows common organizational chart best practices: a clear top-down hierarchy, grouped responsibilities by area, and a short description inside each role card. At OGS tech's current stage, **Odenir Gomes** leads the Leadership, Technology, and Product areas, while **Rosana Pinto** leads the Commercial and Operations areas — with **Marketing** led by **Synue Cunioci**.
 
 ```mermaid
 %%{init: {"flowchart": {"nodeSpacing": 55, "rankSpacing": 95, "diagramPadding": 28, "useMaxWidth": true}}}%%
@@ -75,12 +77,12 @@ flowchart TB
     OPS --> SUPPORT["Support<br/>Issues, triage, and service continuity<br/>Rosana Pinto"]
     OPS --> FIN["Finance & Administration<br/>Cash flow, documents, and compliance<br/>Rosana Pinto"]
 
-    classDef founder fill:#0f172a,color:#ffffff,stroke:#0f172a,stroke-width:2px;
-    classDef heads fill:#dbeafe,color:#1e3a8a,stroke:#60a5fa,stroke-width:1.5px;
-    classDef tech fill:#dcfce7,color:#166534,stroke:#4ade80,stroke-width:1.5px;
-    classDef product fill:#fae8ff,color:#86198f,stroke:#d946ef,stroke-width:1.5px;
-    classDef growth fill:#fef3c7,color:#92400e,stroke:#f59e0b,stroke-width:1.5px;
-    classDef ops fill:#fee2e2,color:#991b1b,stroke:#f87171,stroke-width:1.5px;
+    classDef founder fill:#14133A,color:#F6F2ED,stroke:#E39C19,stroke-width:2px;
+    classDef heads fill:#DBDFFE,color:#14133A,stroke:#7C81F0,stroke-width:1.5px;
+    classDef tech fill:#E5E0DB,color:#2B2722,stroke:#948E88,stroke-width:1.5px;
+    classDef product fill:#F0F2FE,color:#201F53,stroke:#9CA4F9,stroke-width:1.5px;
+    classDef growth fill:#FCDCB1,color:#704A02,stroke:#BF8107,stroke-width:1.5px;
+    classDef ops fill:#CDC8C3,color:#1C1915,stroke:#756F68,stroke-width:1.5px;
 
     class CEO founder;
     class TECH,PRODUCT,BUSINESS,OPS heads;
@@ -92,7 +94,7 @@ flowchart TB
 
 ## Current Roles and Responsibilities
 
-> At the current stage of OGS Tech, the Leadership, Technology, and Product roles are currently occupied by **Odenir Gomes**, while the Commercial and Operations roles are occupied by **Rosana Pinto** — except **Marketing**, which is led by **Synue Cunioci**.
+> At the current stage of OGS tech, the Leadership, Technology, and Product roles are currently occupied by **Odenir Gomes**, while the Commercial and Operations roles are occupied by **Rosana Pinto** — except **Marketing**, which is led by **Synue Cunioci**.
 
 | Area | Role | Description | Current Collaborator |
 |---|---|---|---|

@@ -7,7 +7,7 @@
 
 | Term | Meaning |
 |---|---|
-| **OGS Tech** | Brand name of **Odenir Gomes Solutions** (CNPJ 54.705.657/0001-83), São Paulo/SP. |
+| **OGS tech** | Brand name of **Odenir Gomes Solutions** (CNPJ 54.705.657/0001-83), São Paulo/SP. |
 | **OGS Partners** | Premium, bespoke engagement brand. Engineering + Support. `useogs.com/partners`. |
 | **OGS Studio** | Scalable brand that packages and sells products. `useogs.com/studio`. |
 | **OGS Engine** | The "machine room" — builds the core technology and executes Partners' projects. |
@@ -20,8 +20,8 @@
 | **Alephee** | Marketplace integration platform; the Engineering partner under OGS Partners. |
 | **Noordhen** | Custom operations platform for Noordhen Brasil; the Support partner under OGS Partners. |
 | **Diátaxis** | Documentation framework with four quadrants: Tutorials, How-to, Reference, Explanation. |
-| **Brand Manual** | V1.0 · 2026 — the source for the brand identity. See [Brand](../brand/). |
-| **Ring (tricolor)** | The three arcs around the globe — green (reach), amber (presence), blue (trust). |
+| **Guia de Marca** | Ed. 03 — the source for the brand identity. [Live brand book](https://dx05qx18l5va6.cloudfront.net/ogs-tech/brand/) · see [Brand](../brand/). |
+| **O Avião (the plane)** | The brand symbol — a solid paper plane climbing at ~28°: indigo body, amber wing. See [Visual Identity](../brand/visual-identity.md). |
 | **NIS / Next in Site** | Product name for the Press open-source scaffolder (`@nis/create`). |
 
 See also: [Brand Architecture](brand-architecture.md) · [How it connects](how-it-connects.md) · [Brand identity](../brand/)

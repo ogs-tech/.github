@@ -1,10 +1,10 @@
-# OGS Tech — Hub de Documentação
+# OGS tech — Hub de Documentação
 
 [English](README.md) · **Português**
 
-> **Tecnologia que leva o seu negócio além.** · *Future Ready.*
+> **Tecnologia que leva o seu negócio além.** · *Your business. Further. Future-Ready.*
 
-Este é o hub de documentação de toda a organização **OGS Tech** (Odenir Gomes Solutions).
+Este é o hub de documentação de toda a organização **OGS tech** (Odenir Gomes Solutions).
 Ele é organizado em torno do **guarda-chuva de marca** — como o negócio empacota, vende e opera.
 A documentação detalhada de cada produto vive no seu repositório; este hub enquadra e aponta.
 
@@ -19,7 +19,7 @@ A documentação detalhada de cada produto vive no seu repositório; este hub en
 ## O guarda-chuva num relance
 
 ```
-OGS Tech (Odenir Gomes Solutions)
+OGS tech (Odenir Gomes Solutions)
 │
 ├── OGS Partners ........... premium · sob medida · alta margem · useogs.com/partners
 │     ├── Engenharia ....... Alephee
@@ -93,4 +93,4 @@ O planejamento do dia a dia roda no **Trello**. Dois quadros espelham o guarda-c
 ---
 
 *Odenir Gomes Solutions (OGS) · CNPJ 54.705.657/0001-83 · São Paulo/SP · fundada em 2024-04-12*
-*[ogsolucoes.com.br](https://ogsolucoes.com.br)*
+*[useogs.com](https://useogs.com)*
