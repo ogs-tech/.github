@@ -10,6 +10,15 @@
 
 For the *why* behind the mark, see [Company](company.md).
 
+> [!WARNING]
+> **"Anatomy", "Construction & grid" and the climb-angle rule below still describe the
+> previous symbol** — the solid paper plane drawn from four points on a `0 0 120 120`
+> viewBox. The current symbol is a different drawing, rasterized on a cell grid, and the
+> logo files in this folder were updated to it on 2026-09-13 while this prose was not.
+> Until it is rewritten, treat the [live brand book](https://dx05qx18l5va6.cloudfront.net/ogs-tech/brand/)
+> as the only authority on construction. The color, typography and usage sections below
+> are unaffected.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo/logo-dark.svg">
   <img alt="OGS tech mark" src="assets/logo/logo-primary.svg" width="140" align="right">
@@ -62,8 +71,16 @@ reproduction.
 - **Horizontal** lockup — symbol + `OGS tech`, for wide signatures
 - **Empilhado** (stacked) — symbol → `OGS` → `tech`, for square spaces
 
-The GitHub org avatar is the Invertido mark on ink — [`avatar-512.png`](assets/logo/avatar-512.png),
-reproducible from [`avatar-512.svg`](assets/logo/avatar-512.svg).
+The GitHub org avatar is the **Primário** mark on paper, sized so the mark occupies
+**80% of the frame width** — the measured clearance that survives every crop a network
+applies, from LinkedIn's circle to GitHub's rounded square:
+[`avatar-512.png`](assets/logo/avatar-512.png), reproducible from
+[`avatar-512.svg`](assets/logo/avatar-512.svg).
+
+Every file in [`assets/logo/`](assets/logo/) is **exported from the live brand book**, not
+redrawn here — `node tools/redes.mjs --export` in the brand repository writes them from the
+same code that renders the guide's download buttons. Hand-drawn copies are how this folder
+fell a whole symbol behind without anything noticing.
 
 ---
 
