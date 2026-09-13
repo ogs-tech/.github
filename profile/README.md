@@ -13,7 +13,9 @@
 
 `Your business. Further. Future-Ready.`
 
-We build SaaS, artificial intelligence, and open source solutions to help companies grow with real technology.
+Quality technology shouldn't be a privilege reserved for big companies.
+We build applied AI, bespoke software and open source so that small and
+medium businesses grow on technology that actually holds up.
 
 </div>
 
@@ -25,46 +27,67 @@ Three brands, one umbrella.
 
 ### 🤝 OGS Partners — *premium, bespoke*
 
-| Project | Description |
+Dedicated engineering and support. OGS puts a full team on the problem —
+architecture, development and continuity — and delivers the project. Best
+part: it doesn't disappear afterwards.
+
+| Project | |
 |---|---|
-| [**Alephee**](https://github.com/ogs-tech/alephee) | Software engineering service — building a marketplace integration platform (core services, vendor SDK/adapters, QA automation) |
-| [**Noordhen**](https://github.com/ogs-tech/noordhen) | Operations support service for Noordhen Brasil's custom platform |
+| **Alephee** | Marketplace integration platform — core services, vendor SDK and adapters, QA automation · `private` |
+| **Noordhen** | Custom operations platform for Noordhen Brasil, plus ongoing support · `private` |
 
 ### 🏭 OGS Studio — *scalable products*
 
-| Project | Description |
+Packaged products that already exist and already run. You buy a tested
+solution instead of funding a project from zero.
+
+| Project | |
 |---|---|
-| [**Royale Agent AI App**](https://github.com/ogs-tech/royale-agent-ai-app) | AI-powered coach app for Clash Royale players |
+| **Royale IQ** | AI coach for Clash Royale players, powered by Agent AI · `private` |
 
 ### ⚙️ OGS Engine — *the machine room*
 
-| Project | Description |
+OGS builds its own tooling. That is why delivery is fast without being
+improvised: much of the foundation is already written, tested and open.
+
+| Project | |
 |---|---|
-| [**Studio Press CLI**](https://github.com/ogs-tech/studio-press-cli) | Press — one-command CLI that scaffolds production-ready full-stack content sites |
-| [**Superset AI App**](https://github.com/ogs-tech/superset-ai-app) | Superset AI — centralize AI artifacts in Markdown+YAML, synced to Claude Code and Copilot |
+| [**Press**](https://github.com/ogs-tech/press) | A CLI for content-driven sites on **Strapi 5 + Next.js**, where the whole stack ships as a versioned, updatable dependency — you own a thin config layer, `press` materializes the rest |
+| [**AI Companion**](https://github.com/ogs-tech/ai-companion) | Desktop app that centralizes AI customizations — skills, agent profiles, global instructions, commands — in Markdown + YAML and syncs them to **Claude Code** |
+
+> Entries marked `private` are client or pre-release work. The repositories are
+> closed, so the names carry no link rather than pointing at a 404.
 
 📚 Documentation hub: [all products, organized by brand](https://github.com/ogs-tech/.github/blob/main/docs/)
-➡️ Full brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
+➡️ Brand architecture: [how the umbrella fits together](https://github.com/ogs-tech/.github/blob/main/docs/explanation/brand-architecture.md)
+
+---
+
+## What the brand stands on
+
+| | |
+|---|---|
+| **Mission** | Technology that takes your business further. |
+| **Purpose** | Quality technology shouldn't be a privilege reserved for big companies. |
+| **Vision** | To become Brazil's largest technology company for small and medium businesses. |
+| **Values** | We lead with ethics, we grow together. |
+
+PT · EN is not a façade translation — it is how the brand thinks, hires and
+documents.
+
+Full detail: [Mission, Purpose, Vision, Values and Slogan](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md) ·
+[Organizational chart](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md#organizational-chart)
 
 ---
 
 ## Focus
 
-- Artificial Intelligence & autonomous agents
+- Applied AI & autonomous agents
 - Scalable SaaS
-- Open Source
-
----
-
-## About OGS tech
-
-Learn more about our identity and structure:
-
-- [Mission, Purpose, Vision, Values, and Slogan](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md)
-- [Organizational Chart](https://github.com/ogs-tech/.github/blob/main/profile/about/README.md#organizational-chart)
+- Open source
 
 ---
 
 ## Contact
 
-Website: [useogs.com](https://useogs.com)
+**[www.useogs.com](https://www.useogs.com)** · [contato@useogs.com](mailto:contato@useogs.com) · São Paulo, Brazil
